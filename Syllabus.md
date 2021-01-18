@@ -74,7 +74,7 @@ Students will be given grades based on a 100 point scale. Each assignment will b
 
 ## Readings
  
-All readings will be available as PDFs here (https://github.com/pierredepaz/software-art-text/wiki/readings).
+All readings will be available as PDFs here (https://github.com/periode/software-art-text/tree/master/assets/readings).
 
 Required readings:
 * Virtual Muse: Experiments in Computer Poetry, Charles O. Hartman
