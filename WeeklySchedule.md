@@ -21,7 +21,7 @@
 #### Homework (due before start of next class 1/20)
 - **Join** (optional) the IM Discord server #softwareart channel. Use of Discord is optional but allows you to ask questions and share links with the professor and class at any time.
 
-- **Create** a Colab notebook that generates multiple sentences using algorithmically chosen words. Generate 5 sentences (include the generated sentences as static text in your notebook). Include a short write up:
+- **Create** a Colab notebook that can generate a paragraph of text using algorithmically chosen words. Use at least 2 different algorithms for generating the individual sentences. Generate 5 paragraphs of text and include the generated paragraphs as static text in your notebook). Include a short write up:
   - Explain in words how the sentence is generated.
   - Is the output what you expected?
   - How could you generate an unexpected output?
