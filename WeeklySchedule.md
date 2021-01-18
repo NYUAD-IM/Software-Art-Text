@@ -8,6 +8,7 @@
 
 - Group exercise
 - Introduction to Python
+  - [Hello, World!](https://www.learnpython.org/en/Hello%2C_World%21)
   - [Python 3 Tutorial](https://www.programiz.com/python-programming/tutorial)
 - Introduction to Colab
   - [Introduction to Colab and Python](https://colab.research.google.com/github/tensorflow/examples/blob/master/courses/udacity_intro_to_tensorflow_for_deep_learning/l01c01_introduction_to_colab_and_python.ipynb)
