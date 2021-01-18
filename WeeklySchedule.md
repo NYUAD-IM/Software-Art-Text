@@ -13,7 +13,8 @@
 #### Homework (due before start of next class 1/20)
 - **Join** (optional) the IM Discord server #softwareart channel. Use of Discord is optional but allows you to ask questions and share links with the professor and class at any time.
 - **Read**
-  - 
+  - [Villem Flusser "On Doubt"](https://github.com/periode/software-art-text/blob/master/assets/readings/flusser_doubt.pdf)
+  - **Add** 2-3 paragraphs of response to the [Readings Doc](https://docs.google.com/document/d/1bHBWPR4_hHviqBfkgYN6biPDV4-LfBecwr46cApOEgo/edit?usp=sharing) (login to your NYU Google account to access)
 
 - **Create** a Colab notebook that generates multiple sentences using algorithmically chosen words. Generate 5 sentences (include the generated sentences as static text in your notebook). Include a short write up:
   - Explain in words how the sentence is generated.
