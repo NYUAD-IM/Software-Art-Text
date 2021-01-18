@@ -17,8 +17,7 @@ https://github.com/NYUAD-IM/Software-Art-Text
 
 [Weekly Schedule](https://github.com/NYUAD-IM/Software-Art-Text/blob/main/WeeklySchedule.md)
 
-Class recordings - available on [NYU Classes](https://newclasses.nyu.edu/) (Class Name->Zoom->Cloud Recordings)
-
+Class recordings: available on [NYU Classes](https://newclasses.nyu.edu/) (Class Name->Zoom->Cloud Recordings)
 
 **Discord channel #softwareart:** invite on [NYU Classes](https://newclasses.nyu.edu/)
 
