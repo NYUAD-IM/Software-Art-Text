@@ -39,7 +39,7 @@ Readings will include book chapters, research papers and articles from art histo
 Since the class will be focused on critical outlooks on artworks as well as discussion of both their execution and underlying concepts, participation by the students contributes to 15% of the final grade. Participation includes (a) expressing one’s own perspective on the readings, (b) discussing classmates’ perspectives on the readings, (c) offering critical and respectful feedback on classmates’ work, (d) sharing additional content that can be relevant to the topics discussed in class.
 * 15%
 
-### Drafting
+### Sketching
 Students will be encouraged to produce computer-generated texts by posting weekly on a public blog. These weekly assignments will explore a particular technique, concept, or artist who will have been discussed that week in class. Each draft or series of drafts will be accompanied by a short write-up explaining the creative process of that exploration (what does the program do? why? what is the intended aesthetic effect?).
 * 15%
 
