@@ -3,6 +3,7 @@
 *"One thing that foreigners, computers and poets have in common is that they make unexpected linguistic associations."*<br>
 -- Jasia Reichardt
 
+_Spring 2021_<br/>
 Instructor: [Michael Ang](https://michaelang.com) (michael.ang@nyu.edu)<br/>
 Meeting Time: Mondays 2:40 - 5:20pm & Wednesdays 2:40pm - 3:55pm<br/>
 Location: Zoom (check NYU Classes for Zoom link)</br>
