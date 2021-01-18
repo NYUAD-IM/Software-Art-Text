@@ -3,8 +3,25 @@
 *"One thing that foreigners, computers and poets have in common is that they make unexpected linguistic associations."*<br>
 -- Jasia Reichardt
 
-### Instructor
-[Michael Ang (aka Mang)](mailto:michael.ang@nyu.edu)
+Instructor: [Michael Ang](https://michaelang.com) (michael.ang@nyu.edu)<br/>
+Meeting Time: Mondays 2:40 - 5:20pm & Wednesdays 2:40pm - 3:55pm<br/>
+Location: Zoom (check NYU Classes for Zoom link)</br>
+Office Hours: Discord or by appointment</br>
+Credits: 2<br/>
+
+**Course website:<br/>**
+https://github.com/NYUAD-IM/Software-Art-Text
+
+[Syllabus](https://github.com/NYUAD-IM/Software-Art-Text/blob/main/Syllabus.md)
+
+[Weekly Schedule](https://github.com/NYUAD-IM/Software-Art-Text/blob/main/WeeklySchedule.md)
+
+Class recordings - available on [NYU Classes](https://newclasses.nyu.edu/) (Class Name->Zoom->Cloud Recordings)
+
+
+**Discord channel #softwareart:** invite on [NYU Classes](https://newclasses.nyu.edu/)
+
+---
 
 ### Description
 
