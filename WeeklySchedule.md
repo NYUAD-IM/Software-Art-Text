@@ -10,7 +10,7 @@
 - Introduction to Python
 - Introduction to Colab
 
-#### Homework (due before start of next class)
+#### Homework (due before start of next class 1/20)
 - **Join** (optional) the IM Discord server #softwareart channel. Use of Discord is optional but allows you to ask questions and share links with the professor and class at any time.
 - **Read**
   - 
