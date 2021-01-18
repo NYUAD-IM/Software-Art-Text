@@ -15,6 +15,8 @@
 - Introduction to [Google Colaboratory (Colab)](https://colab.research.google.com/notebooks/intro.ipynb)
   - [Introduction to Colab and Python](https://colab.research.google.com/github/tensorflow/examples/blob/master/courses/udacity_intro_to_tensorflow_for_deep_learning/l01c01_introduction_to_colab_and_python.ipynb)
   - [01 Random Sentence Colab](https://colab.research.google.com/drive/1Abh3NBesmR3eN7bArhg-bgs1fYO-OqTR?usp=sharing)
+  - [Example text - Project Gutenberg: Alice In Wonderland](http://www.gutenberg.org/ebooks/11)
+  - [02 Getting a webpage Colab](https://colab.research.google.com/drive/1sNHW7SQ_VBcExKnsUzh311Vkzkbb1enW?usp=sharing)
 
 #### Homework (due before start of next class 1/20)
 - **Join** (optional) the IM Discord server #softwareart channel. Use of Discord is optional but allows you to ask questions and share links with the professor and class at any time.
