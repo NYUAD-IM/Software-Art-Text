@@ -1,16 +1,16 @@
 # Weekly Schedule
 
-* [Week 1 - Introduction](#week1)
-* [Week 2](#week2)
-* [Week 3](#week3)
-* [Week 4](#week4)
-* [Week 5](#week5)
-* [Week 6](#week6)
-* [Week 7](#week7)
+* [Week 1 (1/18) - Introduction](#week1)
+* [Week 2 (1/25)](#week2)
+* [Week 3 (2/1)](#week3)
+* [Week 4 (2/8)](#week4)
+* [Week 5 (2/15)](#week5)
+* [Week 6 (2/21)](#week6)
+* [Week 7 (3/1) - Final Presentations](#week7)
 
 ## <a name="week1"></a>Week 1 - Introduction / Python & Colab
 
-### Week 1.1
+### Week 1 (1/17) Introductions / Group Exercise / Colab
 - Course Overview
 - Introductions
 
@@ -43,8 +43,45 @@
 -->
 - **Add** the text of a poem you like to the [Readings Doc](https://docs.google.com/document/d/1bHBWPR4_hHviqBfkgYN6biPDV4-LfBecwr46cApOEgo/edit?usp=sharing) (login to your NYU Google account to access). Be prepared to explain what appeals to you about the poem in class
 
-### Week 1.2
+### Week 1 (1/20)
 - Review Homework
 
+<!--
+## <a name="week2"></a>Week 2
 
+### Week 2 (1/25)
+
+### Week 2 (1/27)
+
+## <a name="week3"></a>Week 3
+
+### Week 3 ()
+
+### Week 3 ()
+
+## <a name="week4"></a>Week 4
+
+### Week 4 ()
+
+### Week 4 ()
+
+## <a name="week5"></a>Week 5
+
+### Week 5 ()
+
+### Week 5 ()
+
+## <a name="week6"></a>Week 6
+
+### Week 6 ()
+
+### Week 6 ()
+
+## <a name="week7"></a>Week 7
+
+### Week 7 ()
+
+### Week 7 ()
+
+-->
 
