@@ -1,8 +1,16 @@
 # Weekly Schedule
 
 * [Week 1 - Introduction](#week1)
+* [Week 2](#week2)
+* [Week 3](#week3)
+* [Week 4](#week4)
+* [Week 5](#week5)
+* [Week 6](#week6)
+* [Week 7](#week7)
 
 ## <a name="week1"></a>Week 1 - Introduction / Python & Colab
+
+### Week 1.1
 - Course Overview
 - Introductions
 
@@ -34,3 +42,9 @@
   - **Add** 2-3 paragraphs of response to the [Readings Doc](https://docs.google.com/document/d/1bHBWPR4_hHviqBfkgYN6biPDV4-LfBecwr46cApOEgo/edit?usp=sharing) (login to your NYU Google account to access)
 -->
 - **Add** the text of a poem you like to the [Readings Doc](https://docs.google.com/document/d/1bHBWPR4_hHviqBfkgYN6biPDV4-LfBecwr46cApOEgo/edit?usp=sharing) (login to your NYU Google account to access). Be prepared to explain what appeals to you about the poem in class
+
+### Week 1.2
+- Review Homework
+
+
+
