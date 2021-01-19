@@ -74,10 +74,10 @@ Students will be given grades based on a 100 point scale. Each assignment will b
 
 ## Readings
  
-All readings will be available as PDFs here (https://github.com/periode/software-art-text/tree/master/assets/readings).
+Most readings are available as PDFs here (https://github.com/periode/software-art-text/tree/master/assets/readings).
 
 Required readings:
-* Virtual Muse: Experiments in Computer Poetry, Charles O. Hartman
+* [Virtual Muse: Experiments in Computer Poetry, Charles O. Hartman](https://muse.jhu.edu/book/2399)
 * Shebang, Nick Montfort, Counterpath Press, 2014. ISBN 9781933996462
 
 
