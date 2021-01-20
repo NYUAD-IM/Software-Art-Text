@@ -48,6 +48,7 @@
   - Generated sentences
   - Collected poems
 - Discussion on language and poetry
+  - [Sentence Diagrams](https://en.wikipedia.org/wiki/Sentence_diagram)
   - [The Cut-up Technique](https://everything4writers.tumblr.com/post/130654244711/stuck-exercise-11-the-cut-up-technique)
   - [William Burroughs, "The Cut Up Method"](https://www.writing.upenn.edu/~afilreis/88v/burroughs-cutup.html)
 
