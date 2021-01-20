@@ -48,6 +48,8 @@
   - Generated sentences
   - Collected poems
 - Discussion on language and poetry
+  - [The Cut-up Technique](https://everything4writers.tumblr.com/post/130654244711/stuck-exercise-11-the-cut-up-technique)
+  - [William Burroughs, "The Cut Up Method"](https://www.writing.upenn.edu/~afilreis/88v/burroughs-cutup.html)
 
 #### Homework (due before start of next class 1/25)
 - **Read** the intro to [code {poems}](https://github.com/periode/software-art-text/blob/master/assets/readings/bertram_codepoems.pdf)
