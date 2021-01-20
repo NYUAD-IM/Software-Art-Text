@@ -21,6 +21,8 @@ Class recordings: available on [NYU Classes](https://newclasses.nyu.edu/) (Class
 
 **Discord channel #softwareart:** invite on [NYU Classes](https://newclasses.nyu.edu/)
 
+[Readings](https://github.com/periode/software-art-text/tree/master/assets/readings)
+
 ---
 
 ### Description
