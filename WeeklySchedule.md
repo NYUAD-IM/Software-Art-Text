@@ -58,6 +58,7 @@
     - When do you consider code to be poetry? (2 paragraphs)
     - Pick one of the code poems from the book and compare it's structure, vocabulary, and effect on you to the poem you choose last class. How are they similar? How are they different? (2 paragraphs)
   - **Create** a code poem in Colab
+    - **Add** a link to your Colab to the [Sketches Spreadsheet](https://docs.google.com/spreadsheets/d/1r7vP1i6M4yef5M0_E-yHuoVpyYvxM1T05yCEytOVe4E/edit?usp=sharing)
 
 <!--
 ## <a name="week2"></a>Week 2
