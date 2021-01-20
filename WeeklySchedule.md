@@ -45,6 +45,15 @@
 
 ### Week 1 (1/20)
 - Review Homework
+  - Generated sentences
+  - Collected poems
+- Discussion on language and poetry
+
+#### Homework (due before start of next class 1/25)
+- **Read** the intro to [code {poems}](https://github.com/periode/software-art-text/blob/master/assets/readings/bertram_codepoems.pdf)
+  - **Add** your response to the [Readings Doc](https://docs.google.com/document/d/1bHBWPR4_hHviqBfkgYN6biPDV4-LfBecwr46cApOEgo/edit?usp=sharing)
+    - When do you consider code to be poetry? (2 paragraphs)
+    - Pick one of the code poems from the book and compare it's structure, vocabulary, and effect on you to the poem you choose last class. How are they similar? How are they different? (2 paragraphs)
 
 <!--
 ## <a name="week2"></a>Week 2
