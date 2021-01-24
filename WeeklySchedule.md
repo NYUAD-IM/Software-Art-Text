@@ -60,13 +60,14 @@
   - **Create** a code poem in Colab
     - **Add** a link to your Colab to the [Sketches Spreadsheet](https://docs.google.com/spreadsheets/d/1r7vP1i6M4yef5M0_E-yHuoVpyYvxM1T05yCEytOVe4E/edit?usp=sharing)
 
-<!--
 ## <a name="week2"></a>Week 2
 
 ### Week 2 (1/25)
+- Review Homework
 
 ### Week 2 (1/27)
 
+<!--
 ## <a name="week3"></a>Week 3
 
 ### Week 3 ()
