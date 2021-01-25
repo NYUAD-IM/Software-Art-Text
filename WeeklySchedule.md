@@ -69,6 +69,10 @@
 
 
 #### Homework (due before start of next class 1/27) 
+- **Read** [grep command in Unix/Linux](https://www.geeksforgeeks.org/grep-command-in-unixlinux) page 1
+- **Look** at the manual page for `grep` by running this command (OSX/Linux)
+  - ```$ man grep```
+  - **Or** look at the [grep man page](https://man7.org/linux/man-pages/man1/grep.1.html)
 - **Read** [Grep: A Grammar by Loss Pequeño Glazier](https://github.com/periode/software-art-text/blob/master/assets/readings/glazier_grep.pdf)
   - Some of the output texts are [here](https://web.archive.org/web/20161008133926/http://wings.buffalo.edu:80/epc/authors/glazier/greps/) and [here](https://web.archive.org/web/20110704165723/http://wings.buffalo.edu/epc/authors/glazier/dp/appendices.html)
   
