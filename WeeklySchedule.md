@@ -86,6 +86,7 @@
   - [02a Getting a webpage Colab](https://colab.research.google.com/drive/1sNHW7SQ_VBcExKnsUzh311Vkzkbb1enW?usp=sharing)
   - [Requests: HTTP for Humans™](https://requests.readthedocs.io/en/master/)
   - [Beautiful Soup: Build a Web Scraper With Python](https://realpython.com/beautiful-soup-web-scraper-python/)
+  - [02b Parsing a webpage Colab](https://colab.research.google.com/drive/13PVkzChLPxuByMlhVbp01cbhQkBvLlwL?usp=sharing)
   
 - Regular expressions
   - [Python regular expressions](https://www.w3schools.com/python/python_regex.asp)
