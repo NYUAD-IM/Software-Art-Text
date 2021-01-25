@@ -98,14 +98,14 @@
 
 
 #### Homework (due before start of next class 1/27) 
+- **Create** a new text by scraping a page (or pages) from the Internet. Get at least 3 pieces of text out of the scraped text/web page and remix them into a new text using some of the techniques we've learned (or new ones).
+    - **Add** a link to your Colab to the [Sketches Spreadsheet](https://docs.google.com/spreadsheets/d/1r7vP1i6M4yef5M0_E-yHuoVpyYvxM1T05yCEytOVe4E/edit?usp=sharing)
 - **Read** [grep command in Unix/Linux](https://www.geeksforgeeks.org/grep-command-in-unixlinux) page 1
 - **Look** at the manual page for `grep` by running this command (OSX/Linux)
   - ```$ man grep```
   - **Or** look at the [grep man page](https://man7.org/linux/man-pages/man1/grep.1.html)
 - **Read** [Grep: A Grammar by Loss Pequeño Glazier](https://github.com/periode/software-art-text/blob/master/assets/readings/glazier_grep.pdf)
   - Some of the output texts are [here](https://web.archive.org/web/20161008133926/http://wings.buffalo.edu:80/epc/authors/glazier/greps/) and [here](https://web.archive.org/web/20110704165723/http://wings.buffalo.edu/epc/authors/glazier/dp/appendices.html)
-- **Create** a new text by scraping a page (or pages) from the Internet. Get at least 3 pieces of text out of the scraped text/web page and remix them into a new text using some of the techniques we've learned (or new ones).
-    - **Add** a link to your Colab to the [Sketches Spreadsheet](https://docs.google.com/spreadsheets/d/1r7vP1i6M4yef5M0_E-yHuoVpyYvxM1T05yCEytOVe4E/edit?usp=sharing)
 - **Read and complete** the [Regular Expressions tutorial](https://www.w3schools.com/python/python_regex.asp)
 - **Start** thinking about your Assignment 1 Assemblage
   - What source texts will you use?
