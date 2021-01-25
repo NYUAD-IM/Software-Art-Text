@@ -104,6 +104,7 @@
 
 ### Week 2 (1/27)
 - Codifying grammar
+  - [03_language code examples](https://github.com/periode/software-art-text/tree/master/03_language)
 
 ## <a name="week3"></a>Week 3
 
