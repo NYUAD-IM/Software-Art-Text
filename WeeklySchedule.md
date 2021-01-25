@@ -67,6 +67,8 @@
 
 - Talk about Project 1 Assemblage
 
+- [Python regular expressions](https://www.w3schools.com/python/python_regex.asp)
+
 
 #### Homework (due before start of next class 1/27) 
 - **Read** [grep command in Unix/Linux](https://www.geeksforgeeks.org/grep-command-in-unixlinux) page 1
