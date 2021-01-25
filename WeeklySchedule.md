@@ -1,7 +1,7 @@
 # Weekly Schedule
 
 * [Week 1 (1/18) - Introduction](#week1)
-* [Week 2 (1/25)](#week2)
+* [Week 2 (1/25) - Python, (ir)regular expressions](#week2)
 * [Week 3 (2/1)](#week3)
 * [Week 4 (2/8)](#week4)
 * [Week 5 (2/15)](#week5)
@@ -60,7 +60,6 @@
   - **Create** a code poem in Colab
     - **Add** a link to your Colab to the [Sketches Spreadsheet](https://docs.google.com/spreadsheets/d/1r7vP1i6M4yef5M0_E-yHuoVpyYvxM1T05yCEytOVe4E/edit?usp=sharing)
 
-<!--
 ## <a name="week2"></a>Week 2
 
 ### Week 2 (1/25)
@@ -68,7 +67,15 @@
 
 - Talk about Project 1 Assemblage
 
+
+#### Homework (due before start of next class 1/27) 
+- **Read** [Grep: A Grammar by Loss Pequeño Glazier](https://github.com/periode/software-art-text/blob/master/assets/readings/glazier_grep.pdf)
+  - Some of the output texts are [here](https://web.archive.org/web/20161008133926/http://wings.buffalo.edu:80/epc/authors/glazier/greps/) and [here](https://web.archive.org/web/20110704165723/http://wings.buffalo.edu/epc/authors/glazier/dp/appendices.html)
+  
+
 ### Week 2 (1/27)
+
+<!--
 
 ## <a name="week3"></a>Week 3
 
