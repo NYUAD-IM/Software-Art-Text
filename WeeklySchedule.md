@@ -1,8 +1,8 @@
 # Weekly Schedule
 
 * [Week 1 (1/18) - Introduction](#week1)
-* [Week 2 (1/25) - Python, (ir)regular expressions](#week2)
-* [Week 3 (2/1)](#week3)
+* [Week 2 (1/25) - Scraping, (ir)regular expressions](#week2)
+* [Week 3 (2/1) - Assignment 1 Assemblage Presentations](#week3)
 * [Week 4 (2/8)](#week4)
 * [Week 5 (2/15)](#week5)
 * [Week 6 (2/21)](#week6)
@@ -98,11 +98,12 @@
   - Some of the output texts are [here](https://web.archive.org/web/20161008133926/http://wings.buffalo.edu:80/epc/authors/glazier/greps/) and [here](https://web.archive.org/web/20110704165723/http://wings.buffalo.edu/epc/authors/glazier/dp/appendices.html)
 - **Create** a ```grep```-style text by scraping a text from the Internet and using regular expressions. Get at least 5 pieces of text out of the scraped text/web page and remix them into a new text using some of the techniques we've learned (or new ones).
     - **Add** a link to your Colab to the [Sketches Spreadsheet](https://docs.google.com/spreadsheets/d/1r7vP1i6M4yef5M0_E-yHuoVpyYvxM1T05yCEytOVe4E/edit?usp=sharing)
-  
+- **Start** thinking about your Assignment 1 Assemblage
+  - What source texts will you use?
+  - What kind of output do you envision? Poetry? Code? Sense? Nonsense?
 
 ### Week 2 (1/27)
-
-<!--
+- Codifying grammar
 
 ## <a name="week3"></a>Week 3
 
@@ -110,6 +111,9 @@
 - Project 1 Assemblage Presentations
 
 ### Week 3 (2/3)
+- Introduction to Assignment 2 Fiction
+
+<!--
 
 ## <a name="week4"></a>Week 4
 
