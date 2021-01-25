@@ -83,6 +83,7 @@
 
 - Web scraping
   - [02_Scraping code examples](https://github.com/periode/software-art-text/tree/master/02_scraping)
+  - [02a Getting a webpage Colab](https://colab.research.google.com/drive/1sNHW7SQ_VBcExKnsUzh311Vkzkbb1enW?usp=sharing)
   - [Beautiful Soup: Build a Web Scraper With Python](https://realpython.com/beautiful-soup-web-scraper-python/)
   
 - Regular expressions
