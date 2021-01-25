@@ -4,7 +4,7 @@
 * [Week 2 (1/25) - Scraping, (ir)regular expressions](#week2)
 * [Week 3 (2/1) - Assignment 1 Assemblage Presentations](#week3)
 * [Week 4 (2/8)](#week4)
-* [Week 5 (2/15)](#week5)
+* [Week 5 (2/15) - Assignment 2 Fiction Presentations](#week5)
 * [Week 6 (2/21)](#week6)
 * [Week 7 (3/1) - Final Presentations](#week7)
 
@@ -124,7 +124,7 @@
 ## <a name="week5"></a>Week 5
 
 ### Week 5 (2/15)
-- Project 2 Fiction Presentations
+- Assignment 2 Fiction Presentations
 
 ### Week 5 (2/17)
 
@@ -137,7 +137,7 @@
 ## <a name="week7"></a>Week 7
 
 ### Week 7 (3/1)
-- Final Project Presentations
+- Final Assignment Presentations
 
 ### Week 7 (3/3)
 - Course Review
