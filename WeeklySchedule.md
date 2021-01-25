@@ -82,6 +82,7 @@
       - What thoughts or feelings does your output provoke?
 
 - Web scraping
+  - [Alice In Wonderland on Project Gutenberg](http://www.gutenberg.org/files/11/11-h/11-h.htm)
   - [02_Scraping code examples](https://github.com/periode/software-art-text/tree/master/02_scraping)
   - [02a Getting a webpage Colab](https://colab.research.google.com/drive/1sNHW7SQ_VBcExKnsUzh311Vkzkbb1enW?usp=sharing)
   - [Requests: HTTP for Humans™](https://requests.readthedocs.io/en/master/)
@@ -89,7 +90,9 @@
   - [02b Parsing a webpage Colab](https://colab.research.google.com/drive/13PVkzChLPxuByMlhVbp01cbhQkBvLlwL?usp=sharing)
   
 - Regular expressions
-  - [Python regular expressions](https://www.w3schools.com/python/python_regex.asp)
+  - [Python regular expressions interactive tutorial](https://www.w3schools.com/python/python_regex.asp)
+  - [Python RegEx: re.match(), re.search(), re.findall()](https://www.guru99.com/python-regular-expressions-complete-tutorial.html)
+  - [Pattern matching in Python with Regex](https://www.geeksforgeeks.org/pattern-matching-python-regex/) - see related articles for more examples
   - [3 Advanced Python RegEx Examples](https://www.thegeekstuff.com/2014/07/advanced-python-regex/)
   - [02c Matching lines Colab](https://colab.research.google.com/drive/1y4NteL9qCFRLdkLIDEiFALvBsLdi1j7T?usp=sharing)
 
