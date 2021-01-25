@@ -90,6 +90,8 @@
   
 - Regular expressions
   - [Python regular expressions](https://www.w3schools.com/python/python_regex.asp)
+  - [3 Advanced Python RegEx Examples](https://www.thegeekstuff.com/2014/07/advanced-python-regex/)
+  - [02c Matching lines Colab](https://colab.research.google.com/drive/1y4NteL9qCFRLdkLIDEiFALvBsLdi1j7T?usp=sharing)
 
 
 #### Homework (due before start of next class 1/27) 
