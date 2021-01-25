@@ -65,9 +65,28 @@
 ### Week 2 (1/25)
 - Review Homework
 
-- Talk about Project 1 Assemblage
+- Talk about Project 1 Assemblage **due Week 3 (2/1)**
+  - **Create** a text artwork using Python. The artwork could be the generated text, the code itself, or a combination
+  - The work should:
+    - Use algorithms to generate the text
+    - Use elements of an existing corpus of texts (e.g. a collection of songs, poems, or scraped web pages)
+    - Be presented on a web page
+    - Explore how algorithms can recombine generated and existing text to create new expressions
+    - Have an emotional impact on the reader, for example through the choice of text corpus and recombination technique
+  - The text should be accompanied by the following documentation:
+    - A link to your Colab or source code
+    - A writeup (on your webpage or in your Colab):
+      - How does your algorithm work?
+      - Why did you choose this content and algorithm?
+      - How does the final output differ from what a person would write?
+      - What thoughts or feelings does your output provoke?
 
-- [Python regular expressions](https://www.w3schools.com/python/python_regex.asp)
+- Web scraping
+  - [02_Scraping code examples](https://github.com/periode/software-art-text/tree/master/02_scraping)
+  - [Beautiful Soup: Build a Web Scraper With Python](https://realpython.com/beautiful-soup-web-scraper-python/)
+  
+- Regular expressions
+  - [Python regular expressions](https://www.w3schools.com/python/python_regex.asp)
 
 
 #### Homework (due before start of next class 1/27) 
@@ -77,6 +96,8 @@
   - **Or** look at the [grep man page](https://man7.org/linux/man-pages/man1/grep.1.html)
 - **Read** [Grep: A Grammar by Loss Pequeño Glazier](https://github.com/periode/software-art-text/blob/master/assets/readings/glazier_grep.pdf)
   - Some of the output texts are [here](https://web.archive.org/web/20161008133926/http://wings.buffalo.edu:80/epc/authors/glazier/greps/) and [here](https://web.archive.org/web/20110704165723/http://wings.buffalo.edu/epc/authors/glazier/dp/appendices.html)
+- **Create** a ```grep```-style text by scraping a text from the Internet and using regular expressions. Get at least 5 pieces of text out of the scraped text/web page and remix them into a new text using some of the techniques we've learned (or new ones).
+    - **Add** a link to your Colab to the [Sketches Spreadsheet](https://docs.google.com/spreadsheets/d/1r7vP1i6M4yef5M0_E-yHuoVpyYvxM1T05yCEytOVe4E/edit?usp=sharing)
   
 
 ### Week 2 (1/27)
@@ -85,36 +106,36 @@
 
 ## <a name="week3"></a>Week 3
 
-### Week 3 ()
+### Week 3 (2/1)
 - Project 1 Assemblage Presentations
 
-### Week 3 ()
+### Week 3 (2/3)
 
 ## <a name="week4"></a>Week 4
 
-### Week 4 ()
+### Week 4 (2/8)
 
-### Week 4 ()
+### Week 4 (2/10)
 
 ## <a name="week5"></a>Week 5
 
-### Week 5 ()
+### Week 5 (2/15)
 - Project 2 Fiction Presentations
 
-### Week 5 ()
+### Week 5 (2/17)
 
 ## <a name="week6"></a>Week 6
 
-### Week 6 ()
+### Week 6 (2/22)
 
-### Week 6 ()
+### Week 6 (2/24)
 
 ## <a name="week7"></a>Week 7
 
-### Week 7 ()
+### Week 7 (3/1)
 - Final Project Presentations
 
-### Week 7 ()
+### Week 7 (3/3)
 - Course Review
 - Goodbyes!
 
