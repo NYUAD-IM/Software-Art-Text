@@ -112,6 +112,28 @@
 - Regular Expressions for text matching / substituion
 - Codifying grammar
   - [03_language code examples](https://github.com/periode/software-art-text/tree/master/03_language)
+  
+#### Homework (due before start of next class 2/1)
+- **Finish** your Project 1 Assemblage
+  - **Create** a text artwork using Python. The artwork could be the generated text, the code itself, or a combination
+  - The work should:
+    - Use algorithms to generate the text
+    - Use elements of an existing corpus of texts (e.g. a collection of songs, poems, or scraped web pages)
+    - Be presented on a web page
+    - Explore how algorithms can recombine generated and existing text to create new expressions
+    - Have an emotional impact on the reader, for example through the choice of text corpus and recombination technique
+  - The text should be accompanied by the following documentation:
+    - A link to your Colab or source code
+      - See [Syllabus - Coding](https://github.com/NYUAD-IM/Software-Art-Text/blob/main/Syllabus.md#coding)
+    - A writeup (on your webpage or in your Colab):
+      - See [Syllabus - Writing](https://github.com/NYUAD-IM/Software-Art-Text/blob/main/Syllabus.md#writing)
+      - Consider the following prompts:
+        - How does your algorithm work?
+        - Why did you choose this content and algorithm?
+        - How does the final output differ from what a person would write?
+        - What thoughts or feelings does your output provoke?
+- **Add** the links to your assignment, source code, and documentation to the [Assignments Spreadsheet](https://docs.google.com/spreadsheets/d/19Zj-k-pxUY0rhpp6yGIoJchRbJk0z5lj2b1iqz1W-Uw/edit?usp=sharing)
+- **Prepare** to present your work in class (6-8 minutes + discussion)
 
 ## <a name="week3"></a>Week 3
 
