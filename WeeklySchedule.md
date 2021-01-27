@@ -118,6 +118,8 @@
 - Codifying grammar
   - [03_language code examples](https://github.com/periode/software-art-text/tree/master/03_language)
   - [03b TextBlob grammar](https://colab.research.google.com/drive/1GBXRnaXuKp1Ih6qKOR6P3rfdxWlCOLWy?usp=sharing)
+- Converting Python code for Colab
+  - If you get "print" errors you may need to [convert from Python 2 to 3](https://www.pythonconverter.com/)
   
 #### Homework (due before start of next class 2/1)
 - **Finish** your Project 1 Assemblage
