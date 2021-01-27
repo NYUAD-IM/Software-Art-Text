@@ -117,6 +117,7 @@
   - [Substituting patterns in text using regex](https://www.geeksforgeeks.org/python-substituting-patterns-in-text-using-regex/)
 - Codifying grammar
   - [03_language code examples](https://github.com/periode/software-art-text/tree/master/03_language)
+  - [03b TextBlob grammar](https://colab.research.google.com/drive/1GBXRnaXuKp1Ih6qKOR6P3rfdxWlCOLWy?usp=sharing)
   
 #### Homework (due before start of next class 2/1)
 - **Finish** your Project 1 Assemblage
