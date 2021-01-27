@@ -109,8 +109,12 @@
   - What kind of output do you envision? Poetry? Code? Sense? Nonsense?
 
 ### Week 2 (1/27)
+  
 - Regular Expressions for text matching / substituion
   - [03a Beautiful Soup x Regular Expressions Colab](https://colab.research.google.com/drive/1AVuFkhnvH1T244L8TvhNqb539F-W6y1s?usp=sharing)
+- Replacing strings
+  - [Replace strings in Python](https://note.nkmk.me/en/python-str-replace-translate-re-sub/) using builting ```replace``` function
+  - [Substituting patterns in text using regex](https://www.geeksforgeeks.org/python-substituting-patterns-in-text-using-regex/)
 - Codifying grammar
   - [03_language code examples](https://github.com/periode/software-art-text/tree/master/03_language)
   
