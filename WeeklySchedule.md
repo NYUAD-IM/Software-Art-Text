@@ -110,6 +110,7 @@
 
 ### Week 2 (1/27)
 - Regular Expressions for text matching / substituion
+  - [03a Beautiful Soup x Regular Expressions Colab](https://colab.research.google.com/drive/1AVuFkhnvH1T244L8TvhNqb539F-W6y1s?usp=sharing)
 - Codifying grammar
   - [03_language code examples](https://github.com/periode/software-art-text/tree/master/03_language)
   
