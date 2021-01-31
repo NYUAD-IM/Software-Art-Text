@@ -148,6 +148,8 @@
 ### Week 3 (2/1)
 - Project 1 Assemblage Presentations
 
+- [Forms in Colab](https://colab.research.google.com/notebooks/forms.ipynb)
+
 ### Week 3 (2/3)
 - Introduction to Assignment 2 Fiction
 
