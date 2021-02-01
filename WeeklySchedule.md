@@ -154,6 +154,9 @@
 
 - [Forms in Colab](https://colab.research.google.com/notebooks/forms.ipynb)
 
+- [nltk - Natural Language Toolkit](https://www.nltk.org/)
+  - [Things you can do with nltk (nltk book](http://www.nltk.org/book/)
+
 - Text generation using machine learning / AI
   - [Fake-News-Generating AI Deemed Too Dangerous for Public Release](https://www.extremetech.com/extreme/285857-fake-news-generating-ai-deemed-too-dangerous-for-public-release)
   - [OpenAI Releases Fake News Bot It Previously Deemed Too Dangerous](https://www.extremetech.com/extreme/301662-openai-releases-fake-news-bot-it-previously-deemed-too-dangerous)
