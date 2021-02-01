@@ -148,18 +148,53 @@
 ### Week 3 (2/1)
 - Project 1 Assemblage Presentations
 
-- [Forms in Colab](https://colab.research.google.com/notebooks/forms.ipynb)
 
 ### Week 3 (2/3)
 - Introduction to Assignment 2 Fiction
 
-<!--
+- [Forms in Colab](https://colab.research.google.com/notebooks/forms.ipynb)
+
+- Text generation using machine learning / AI
+  - [Fake-News-Generating AI Deemed Too Dangerous for Public Release](https://www.extremetech.com/extreme/285857-fake-news-generating-ai-deemed-too-dangerous-for-public-release)
+  - [OpenAI Releases Fake News Bot It Previously Deemed Too Dangerous](https://www.extremetech.com/extreme/301662-openai-releases-fake-news-bot-it-previously-deemed-too-dangerous)
+    [Faking the News with Natural Language Processing and GPT-2](https://medium.com/@ageitgey/deepfaking-the-news-with-nlp-and-transformer-models-5e057ebd697d)
+  - [Finetuning GPT-2 on your own text Colab](https://colab.research.google.com/drive/1uKXS6a9q5qrcU3UdSRpCjYnKHbC-N4pb?usp=sharing)
+  
+  - GPT in-depth
+    - [GPT explained - multiple difficulty levels](https://towardsdatascience.com/you-can-understand-gpt-3-with-these-youtube-videos-6a30887c928b)
+    - [How transformers work](https://towardsdatascience.com/transformers-141e32e69591)
+  - Machine learning text generation demo
+    - [Talk to transformer](https://app.inferkit.com/demo)
+
+
+#### Homework (due before start of next class 2/8) 
+- **Read** an article about GPT-3 and write a 2-3 paragraph response to the [Readings Doc](https://docs.google.com/document/d/1bHBWPR4_hHviqBfkgYN6biPDV4-LfBecwr46cApOEgo/edit?usp=sharing)
+  - How do you think machine learning will affect the future of writing?
+  - What creative possibilities do you see for automatic text generation?
+  - Some suggested articles
+    - [Philosophers On GPT-3](https://dailynous.com/2020/07/30/philosophers-gpt-3/)
+      - [Responses on Hacker News](https://news.ycombinator.com/item?id=24003384)
+    - [Someone let a GPT-3 bot loose on Reddit — it didn’t end well](https://thenextweb.com/neural/2020/10/07/someone-let-a-gpt-3-bot-loose-on-reddit-it-didnt-end-well/)
+    - [GPT-3 Creative Fiction](https://www.gwern.net/GPT-3)
+    - [OPENAI’S LATEST BREAKTHROUGH IS ASTONISHINGLY POWERFUL, BUT STILL FIGHTING ITS FLAWS](https://www.theverge.com/21346343/gpt-3-explainer-openai-examples-errors-agi-potential)
+    - [Here Are A Few Ways GPT-3 Can Go Wrong](https://techcrunch.com/2020/08/07/here-are-a-few-ways-gpt-3-can-go-wrong/)
+    - [GPT Crush (look through some examples)](http://gptcrush.com/)
+
+- **SKETCH - Create** a short text by training GPT-2 on your own input text. You can copy the Colab below
+  - [Finetuning GPT-2 on your own text Colab](https://colab.research.google.com/drive/1uKXS6a9q5qrcU3UdSRpCjYnKHbC-N4pb?usp=sharing)
+  - **Add** a link to your Colab to the [Sketches Spreadsheet](https://docs.google.com/spreadsheets/d/1r7vP1i6M4yef5M0_E-yHuoVpyYvxM1T05yCEytOVe4E/edit?usp=sharing) (login to your NYU Google account to access)
+  
 
 ## <a name="week4"></a>Week 4
 
 ### Week 4 (2/8)
+- Assignment presentations
+- Review Homework
 
 ### Week 4 (2/10)
+
+<!--
+
 
 ## <a name="week5"></a>Week 5
 
