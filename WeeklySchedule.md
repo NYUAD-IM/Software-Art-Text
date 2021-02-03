@@ -148,8 +148,6 @@
 ### Week 3 (2/1)
 - Project 1 Assemblage Presentations
 
-
-### Week 3 (2/3)
 - Introduction to Assignment 2 Fiction
 
 - [Forms in Colab](https://colab.research.google.com/notebooks/forms.ipynb)
@@ -186,16 +184,14 @@
 - **SKETCH - Create** a short text by training GPT-2 on your own input text. You can copy the Colab below
   - [Finetuning GPT-2 on your own text Colab](https://colab.research.google.com/drive/1qu0yGoPOGf7_UIdenz--uDZrUl-lbO4K?usp=sharing)
   - **Add** a link to your Colab to the [Sketches Spreadsheet](https://docs.google.com/spreadsheets/d/1r7vP1i6M4yef5M0_E-yHuoVpyYvxM1T05yCEytOVe4E/edit?usp=sharing) (login to your NYU Google account to access)
-  
 
-## <a name="week4"></a>Week 4
+### Week 3 (2/3)
 
-### Week 4 (2/8)
 - Assignment presentations
 - Review Homework
 - Discussion about Machine Learning / AI
 
-- Discuss Assignment #2 Fiction
+- Discuss Assignment #2 Fiction (due 2/15)
   - **Create** a short work of fiction using Python
   - The work should:
     - Be 3 or more paragraphs long, with a narrative story / arc
@@ -215,7 +211,7 @@
         - How does the presentation of your work shape the response of the reader?
 
 
-#### Homework (due before start of next class 2/10) 
+#### Homework (due before start of next class 2/8) 
 - **Read** Virtual Muse (select sign in with SSO then search for "New York University" on right hand side to login with Shibboleth)
   - [Virtual Muse - Chapter 6 Autopoet](https://muse.jhu.edu/chapter/49391/pdf) 
   - [Virtual Muse - Chapter 9 Unconclusion](https://muse.jhu.edu/chapter/49394/pdf)
@@ -225,11 +221,17 @@
   
 - **Start** working on your Fiction Assignment. Develop your idea and be prepared to talk about it in class.
 
-### Week 4 (2/10)
+## <a name="week4"></a>Week 4
+
+### Week 4 (2/8)
 
 - Assignment idea feedback
 - More text generation techniques
 - Work session
+
+
+### Week 4 (2/10)
+- Assignment checkin
 
 ## <a name="week5"></a>Week 5
 
