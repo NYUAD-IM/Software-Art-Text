@@ -2,8 +2,8 @@
 
 * [Week 1 (1/18) - Introduction](#week1)
 * [Week 2 (1/25) - Scraping, (ir)regular expressions](#week2)
-* [Week 3 (2/1) - Assignment 1 Assemblage Presentations](#week3)
-* [Week 4 (2/8)](#week4)
+* [Week 3 (2/1) - Assignment 1 Assemblage Presentations - Fiction / Machine Learning](#week3)
+* [Week 4 (2/8) - Machine Learning - Workshop](#week4)
 * [Week 5 (2/15) - Assignment 2 Fiction Presentations](#week5)
 * [Week 6 (2/21)](#week6)
 * [Week 7 (3/1) - Final Presentations](#week7)
@@ -193,16 +193,32 @@
 ### Week 4 (2/8)
 - Assignment presentations
 - Review Homework
+- Discussion about Machine Learning / AI
+
+- Discussion Assignment #2 Fiction
+
+
+
+#### Homework (due before start of next class 2/10) 
+- **Read** Virtual Muse (select sign in with SSO then search for "New York University" on right hand side to login with Shibboleth)
+  - [Virtual Muse - Chapter 6 Autopoet](https://muse.jhu.edu/chapter/49391/pdf) 
+  - [Virtual Muse - Chapter 9 Unconclusion](https://muse.jhu.edu/chapter/49394/pdf)
+  - **Add** your response to the [Readings Doc](https://docs.google.com/document/d/1bHBWPR4_hHviqBfkgYN6biPDV4-LfBecwr46cApOEgo/edit?usp=sharing)
+    - Do you agree with the (un)conclusions that the author makes about computers and poetry? How does your own opinion differ? (1-2 paragraphs)
+    - What are some ways could you involve the reader in the process of generating your texts? (1-2 paragraphs)
+  
+- **Start** working on your Fiction Assignment. Be prepared to talk about your idea in class
 
 ### Week 4 (2/10)
 
-<!--
-
+- Workshop
 
 ## <a name="week5"></a>Week 5
 
 ### Week 5 (2/15)
 - Assignment 2 Fiction Presentations
+
+<!--
 
 ### Week 5 (2/17)
 
