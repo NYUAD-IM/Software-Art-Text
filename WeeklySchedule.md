@@ -223,7 +223,7 @@
     - Do you agree with the (un)conclusions that the author makes about computers and poetry? How does your own opinion differ? (1-2 paragraphs)
     - What are some ways could you involve the reader in the process of generating your texts? (1-2 paragraphs)
   
-- **Start** working on your Fiction Assignment. Be prepared to talk about your idea in class.
+- **Start** working on your Fiction Assignment. Develop your idea and be prepared to talk about it in class.
 
 ### Week 4 (2/10)
 
