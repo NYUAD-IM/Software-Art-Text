@@ -195,8 +195,24 @@
 - Review Homework
 - Discussion about Machine Learning / AI
 
-- Discussion Assignment #2 Fiction
-
+- Discuss Assignment #2 Fiction
+  - **Create** a short work of fiction using Python
+  - The work should:
+    - Be 3 or more paragraphs long, with a narrative story / arc
+    - Be presented on a web page (can be a Colab or standalone webpage) 
+    - You can incorporate code that you have previously used
+    - You can generate text "from scratch", remix existing content, and/or generate text using machine learning (e.g. GPT-2)
+    - A new story / fiction should be generated each time the program is run (you can choose 1 or more of the generated outputs to present on the web page)
+  - The text should be accompanied by the following documentation:
+    - A link to your Colab or source code
+      - See [Syllabus - Coding](https://github.com/NYUAD-IM/Software-Art-Text/blob/main/Syllabus.md#coding)
+    - A writeup (on your webpage or in your Colab):
+      - See [Syllabus - Writing](https://github.com/NYUAD-IM/Software-Art-Text/blob/main/Syllabus.md#writing)
+      - Consider the following prompts:
+        - How does your algorithm work? How do you generate the storyline?
+        - What topics/processes are you exploring in your work? What did you hope to achieve?
+          - e.g. infinitely generated possibilities, use of time, sense vs nonsense
+        - How does the presentation of your work shape the response of the reader?
 
 
 #### Homework (due before start of next class 2/10) 
@@ -207,11 +223,13 @@
     - Do you agree with the (un)conclusions that the author makes about computers and poetry? How does your own opinion differ? (1-2 paragraphs)
     - What are some ways could you involve the reader in the process of generating your texts? (1-2 paragraphs)
   
-- **Start** working on your Fiction Assignment. Be prepared to talk about your idea in class
+- **Start** working on your Fiction Assignment. Be prepared to talk about your idea in class.
 
 ### Week 4 (2/10)
 
-- Workshop
+- Assignment idea feedback
+- More text generation techniques
+- Work session
 
 ## <a name="week5"></a>Week 5
 
