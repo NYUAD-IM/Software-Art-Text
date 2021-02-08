@@ -252,9 +252,11 @@
 ### Week 4 (2/10)
 - Assignment checkin
 - Rhyming
+  - [04e Pronouncing Rhymes Colab](https://colab.research.google.com/drive/1d1flDV5bdJ6O688-z1oRvrk883MlB5Pm?usp=sharing)
   - [Phyme library](https://github.com/jameswenzel/Phyme)
 - Emotions in Text
 - Web apps on Colab
+  - [04e WebApp on Colab](https://colab.research.google.com/drive/1xxfJaSxWVmUHH-BZoJ2niAzv8GEjBP4S?usp=sharing)
 
 ## <a name="week5"></a>Week 5
 
