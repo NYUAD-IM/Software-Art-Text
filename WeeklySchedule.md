@@ -239,9 +239,15 @@
   - [04a Text To Speech Colab](https://colab.research.google.com/drive/1_-bHvz7I2fxJkg7qic1Niq8CngG3uov9?usp=sharing)
 - Work session
 
+#### Homework (due before start of next class 2/10)
+- Keep working on your Fiction Assignment
+- Be ready to show some progress in class
+
 
 ### Week 4 (2/10)
 - Assignment checkin
+- Emotions in Text
+- Web apps on Colab
 
 ## <a name="week5"></a>Week 5
 
