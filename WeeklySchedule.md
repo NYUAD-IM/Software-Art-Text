@@ -256,7 +256,10 @@
   - [Phyme library](https://github.com/jameswenzel/Phyme)
 - Emotions in Text
 - Web apps on Colab
-  - [04e WebApp on Colab](https://colab.research.google.com/drive/1xxfJaSxWVmUHH-BZoJ2niAzv8GEjBP4S?usp=sharing)
+  - [04e Simple WebApp on Colab](https://colab.research.google.com/drive/1xxfJaSxWVmUHH-BZoJ2niAzv8GEjBP4S?usp=sharing)
+  - Public web app running on Colab (Flask/ngrok) with source code in GitHub
+    - [Cartoonizer webapp source code](https://github.com/mangtronix/cartoonize)
+    - [Cartoonizer Colab](https://colab.research.google.com/github/mangtronix/cartoonize/blob/master/Cartoonize_Colab.ipynb)
 
 ## <a name="week5"></a>Week 5
 
