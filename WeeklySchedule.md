@@ -227,6 +227,16 @@
 
 - Assignment idea feedback
 - More text generation techniques
+  - [gpt2-small-arabic](https://huggingface.co/akhooli/gpt2-small-arabic)
+    - [Arabic GPT2 model: Text Generation Colab](https://colab.research.google.com/drive/1posUGU3Qgqq1zAqKJ5tmWXmh8vnNXUiH?usp=sharing)
+  - [TextBlob Python Library](https://textblob.readthedocs.io/en/dev/)
+    - [NLP for Beginners using TextBlob](https://www.analyticsvidhya.com/blog/2018/02/natural-language-processing-for-beginners-using-textblob/)
+    - [04c TextBlob Colab](https://colab.research.google.com/drive/1ar83NFWKr8_kWnIR81TspbiqMCPsRufh?usp=sharing)
+    - [Part of Speech Tagging Using TextBlob](https://www.geeksforgeeks.org/python-part-of-speech-tagging-using-textblob/)
+    - [03_language examples (Python 2)](https://github.com/periode/software-art-text/tree/master/03_language)
+  
+- Text To Speech
+  - [04a Text To Speech Colab](https://colab.research.google.com/drive/1_-bHvz7I2fxJkg7qic1Niq8CngG3uov9?usp=sharing)
 - Work session
 
 
