@@ -237,6 +237,11 @@
   
 - Text To Speech
   - [04a Text To Speech Colab](https://colab.research.google.com/drive/1_-bHvz7I2fxJkg7qic1Niq8CngG3uov9?usp=sharing)
+  
+- Using Web APIs
+  - [04d OpenWeather API Colab](https://colab.research.google.com/drive/16yA8Pj2r8qFeBadVer8RBCSvlmIQbECE?usp=sharing)
+  
+  
 - Work session
 
 #### Homework (due before start of next class 2/10)
@@ -246,6 +251,8 @@
 
 ### Week 4 (2/10)
 - Assignment checkin
+- Rhyming
+  - [Phyme library](https://github.com/jameswenzel/Phyme)
 - Emotions in Text
 - Web apps on Colab
 
