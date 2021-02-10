@@ -273,11 +273,27 @@
 #### Homework (due 2/15)
 
 - **Finish** your Project 2 Fiction
-- **Add** the links to your assignment, source code, and documentation to the [Assignments Spreadsheet](https://docs.google.com/spreadsheets/d/19Zj-k-pxUY0rhpp6yGIoJchRbJk0z5lj2b1iqz1W-Uw/edit?usp=sharing)
-- **Prepare** to present your work in class (6-8 minutes + discussion)
+  - **Create** a short work of fiction using Python
+  - The work should:
+    - Be 3 or more paragraphs long, with a narrative story / arc
+    - Be presented on a web page (can be a Colab or standalone webpage) 
+    - You can incorporate code that you have previously used
+    - You can generate text "from scratch", remix existing content, and/or generate text using machine learning (e.g. GPT-2)
+    - A new story / fiction should be generated each time the program is run (you can choose 1 or more of the generated outputs to present on the web page)
+  - The text should be accompanied by the following documentation:
+    - A link to your Colab or source code
+      - See [Syllabus - Coding](https://github.com/NYUAD-IM/Software-Art-Text/blob/main/Syllabus.md#coding)
+    - A writeup (on your webpage or in your Colab):
+      - See [Syllabus - Writing](https://github.com/NYUAD-IM/Software-Art-Text/blob/main/Syllabus.md#writing)
+      - Consider the following prompts:
+        - How does your algorithm work? How do you generate the storyline?
+        - What topics/processes are you exploring in your work? What did you hope to achieve?
+          - e.g. infinitely generated possibilities, use of time, sense vs nonsense
+        - How does the presentation of your work shape the response of the reader?
+  - **Add** the links to your assignment, source code, and documentation to the [Assignments Spreadsheet](https://docs.google.com/spreadsheets/d/19Zj-k-pxUY0rhpp6yGIoJchRbJk0z5lj2b1iqz1W-Uw/edit?usp=sharing)
+  - **Prepare** to present your work in class (6-8 minutes + discussion)
 
-Add the links to your assignment, source code, and documentation to the Assignments Spreadsheet
-Prepare to present your work in class (6-8 minutes + discussion)
+- **Read** [The Listening Post](http://www.digiart21.org/art/the-listening-post)
 
 ## <a name="week5"></a>Week 5
 
