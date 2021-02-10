@@ -269,6 +269,15 @@
   - [The Listening Post](http://www.digiart21.org/art/the-listening-post)
   - [Mark Hansen and Ben Rubin: Listening Post, Real-Time Data Responsive Environment 2001 (YouTube)](https://www.youtube.com/watch?v=dD36IajCz6A)
   - [Text Rain by Camille Utterback (YouTube)](https://www.youtube.com/watch?v=f_u3sSffS78)
+  
+#### Homework (due 2/15)
+
+- **Finish** your Project 2 Fiction
+- **Add** the links to your assignment, source code, and documentation to the [Assignments Spreadsheet](https://docs.google.com/spreadsheets/d/19Zj-k-pxUY0rhpp6yGIoJchRbJk0z5lj2b1iqz1W-Uw/edit?usp=sharing)
+- **Prepare** to present your work in class (6-8 minutes + discussion)
+
+Add the links to your assignment, source code, and documentation to the Assignments Spreadsheet
+Prepare to present your work in class (6-8 minutes + discussion)
 
 ## <a name="week5"></a>Week 5
 
