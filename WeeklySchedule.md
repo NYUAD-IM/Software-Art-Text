@@ -265,6 +265,8 @@
   - Public web app running on Colab (Flask/ngrok) with source code in GitHub
     - [Cartoonizer webapp source code](https://github.com/mangtronix/cartoonize)
     - [Cartoonizer Colab](https://colab.research.google.com/github/mangtronix/cartoonize/blob/master/Cartoonize_Colab.ipynb)
+    - [4g GPT-2 webapp (Colab)](https://colab.research.google.com/drive/1uX7xByZyav8u4yqdd6G1Ih2oiu71Sx4B?usp=sharing)
+    - [GPT-2 running as a webapp on Colab (GitHub)](https://github.com/mangtronix/gpt2-flask)
 - Interactive Installations
   - [The Listening Post](http://www.digiart21.org/art/the-listening-post)
   - [Mark Hansen and Ben Rubin: Listening Post, Real-Time Data Responsive Environment 2001 (YouTube)](https://www.youtube.com/watch?v=dD36IajCz6A)
