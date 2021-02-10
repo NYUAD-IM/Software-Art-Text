@@ -254,12 +254,21 @@
 - Rhyming
   - [04e Pronouncing Rhymes Colab](https://colab.research.google.com/drive/1d1flDV5bdJ6O688-z1oRvrk883MlB5Pm?usp=sharing)
   - [Phyme library](https://github.com/jameswenzel/Phyme)
-- Emotions in Text
+- Corpuses of Text
+  - [Positive Words](https://www.enchantedlearning.com/wordlist/positivewords.shtml)
+  - [Negative Words](https://www.enchantedlearning.com/wordlist/negativewords.shtml)
+- Dictionary API
+  - [Oxford Dictionaries API](https://developer.oxforddictionaries.com/) 
+  - [Oxford Dictionary API Python Wrapper](https://pypi.org/project/oxforddictionaries/)
 - Web apps on Colab
   - [04e Simple WebApp on Colab](https://colab.research.google.com/drive/1xxfJaSxWVmUHH-BZoJ2niAzv8GEjBP4S?usp=sharing)
   - Public web app running on Colab (Flask/ngrok) with source code in GitHub
     - [Cartoonizer webapp source code](https://github.com/mangtronix/cartoonize)
     - [Cartoonizer Colab](https://colab.research.google.com/github/mangtronix/cartoonize/blob/master/Cartoonize_Colab.ipynb)
+- Interactive Installations
+  - [The Listening Post](http://www.digiart21.org/art/the-listening-post)
+  - [Mark Hansen and Ben Rubin: Listening Post, Real-Time Data Responsive Environment 2001 (YouTube)](https://www.youtube.com/watch?v=dD36IajCz6A)
+  - [Text Rain by Camille Utterback (YouTube)](https://www.youtube.com/watch?v=f_u3sSffS78)
 
 ## <a name="week5"></a>Week 5
 
