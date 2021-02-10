@@ -293,12 +293,17 @@
   - **Add** the links to your assignment, source code, and documentation to the [Assignments Spreadsheet](https://docs.google.com/spreadsheets/d/19Zj-k-pxUY0rhpp6yGIoJchRbJk0z5lj2b1iqz1W-Uw/edit?usp=sharing)
   - **Prepare** to present your work in class (6-8 minutes + discussion)
 
-- **Read** [The Listening Post](http://www.digiart21.org/art/the-listening-post)
+
 
 ## <a name="week5"></a>Week 5
 
 ### Week 5 (2/15)
 - Assignment 2 Fiction Presentations
+
+
+#### Homework 
+
+- **Read** [Listening Post 10 Years On](https://web.archive.org/web/20190802123753/https://modes.io/listening-post-ten-years-on/)
 
 <!--
 
