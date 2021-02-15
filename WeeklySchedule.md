@@ -317,14 +317,14 @@
 - Transformer Examples
   - [Write with Transformer](https://transformer.huggingface.co/)
   - [5a Transformer Chatbot Colab](https://colab.research.google.com/drive/1XsPJHpyDA31NJ3UrHluAa6ypfy9Dxssm?usp=sharing)
-  -[5b Transformer GPT2](https://colab.research.google.com/drive/1stSZsIqRkcSIf2fUMvjlV7YNVah5RnVu?usp=sharing)
+  - [5b Transformer GPT2 Colab](https://colab.research.google.com/drive/1stSZsIqRkcSIf2fUMvjlV7YNVah5RnVu?usp=sharing)
 
 
 #### Homework 
 
-- **Read** [Listening Post 10 Years On](https://web.archive.org/web/20190802123753/https://modes.io/listening-post-ten-years-on/)
+- **Read** [Listening Post 10 Years On](https://www.researchgate.net/publication/328228327_Revisiting_the_Technical_Achievements_of_Listening_Post_Ten_Years_On) (download the PDF)
   - **Add** 2-3 paragraphs of response to the [Readings Doc](https://docs.google.com/document/d/1bHBWPR4_hHviqBfkgYN6biPDV4-LfBecwr46cApOEgo/edit?usp=sharing)
-- **Start* developing your idea for your Final Assignment
+- **Start** developing your idea for your Final Assignment and be ready to share your idea in class
 
 ### Week 5 (2/17)
 - Discuss Listening Post
