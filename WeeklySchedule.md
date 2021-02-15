@@ -314,9 +314,11 @@
   - **Add** the links to your assignment, source code, and documentation to the [Assignments Spreadsheet](https://docs.google.com/spreadsheets/d/19Zj-k-pxUY0rhpp6yGIoJchRbJk0z5lj2b1iqz1W-Uw/edit?usp=sharing)
   - **Prepare** to present your work in class (6-8 minutes + discussion)
   
-- Chatbot Example
+- Transformer Examples
+  - [Write with Transformer](https://transformer.huggingface.co/)
   - [5a Transformer Chatbot Colab](https://colab.research.google.com/drive/1XsPJHpyDA31NJ3UrHluAa6ypfy9Dxssm?usp=sharing)
-- [Write with Transformer](https://transformer.huggingface.co/)
+  -[5b Transformer GPT2](https://colab.research.google.com/drive/1stSZsIqRkcSIf2fUMvjlV7YNVah5RnVu?usp=sharing)
+
 
 #### Homework 
 
