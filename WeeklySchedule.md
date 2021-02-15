@@ -313,6 +313,10 @@
         - What algorithms are you using and how did they affect your process and output?
   - **Add** the links to your assignment, source code, and documentation to the [Assignments Spreadsheet](https://docs.google.com/spreadsheets/d/19Zj-k-pxUY0rhpp6yGIoJchRbJk0z5lj2b1iqz1W-Uw/edit?usp=sharing)
   - **Prepare** to present your work in class (6-8 minutes + discussion)
+  
+- Chatbot Example
+  - (5a Transformer Chatbot Colab)[https://colab.research.google.com/drive/1XsPJHpyDA31NJ3UrHluAa6ypfy9Dxssm?usp=sharing]
+- (Write with Transformer)[https://transformer.huggingface.co/]
 
 #### Homework 
 
