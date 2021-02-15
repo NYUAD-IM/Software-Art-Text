@@ -322,8 +322,11 @@
 
 #### Homework 
 
-- **Read** [Listening Post 10 Years On](https://www.researchgate.net/publication/328228327_Revisiting_the_Technical_Achievements_of_Listening_Post_Ten_Years_On) (download the PDF)
+- **Read** [Listening Post 10 Years On](https://www.researchgate.net/publication/328228327_Revisiting_the_Technical_Achievements_of_Listening_Post_Ten_Years_On) and watch the [Listening Post video](https://www.youtube.com/watch?v=dD36IajCz6A)
   - **Add** 2-3 paragraphs of response to the [Readings Doc](https://docs.google.com/document/d/1bHBWPR4_hHviqBfkgYN6biPDV4-LfBecwr46cApOEgo/edit?usp=sharing)
+    - How do the choices of source data contribute to the "liveness" of the installation? Why do you think the artists chose to look for posts starting with "I am"?
+    - How does the sonification of the texts affect your experience of them? Do you think the sonfication is an integral part of the piece?
+    - Do you feel that Listening Post makes a statement about privacy and eavesdropping? What do you think the work is about?
 - **Start** developing your idea for your Final Assignment and be ready to share your idea in class
 
 ### Week 5 (2/17)
