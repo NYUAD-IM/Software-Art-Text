@@ -5,7 +5,7 @@
 * [Week 3 (2/1) - Assignment 1 Assemblage Presentations - Fiction / Machine Learning](#week3)
 * [Week 4 (2/8) - Machine Learning - Workshop](#week4)
 * [Week 5 (2/15) - Assignment 2 Fiction Presentations](#week5)
-* [Week 6 (2/21)](#week6)
+* [Week 6 (2/21) - Stochastics](#week6)
 * [Week 7 (3/1) - Final Presentations](#week7)
 
 ## <a name="week1"></a>Week 1 - Introduction / Python & Colab
@@ -36,11 +36,6 @@
   - How could you generate an unexpected output?
 - **Add** a link to your Colab to the [Sketches Spreadsheet](https://docs.google.com/spreadsheets/d/1r7vP1i6M4yef5M0_E-yHuoVpyYvxM1T05yCEytOVe4E/edit?usp=sharing) (login to your NYU Google account to access)
 
-<!--
-- **Read**
-  - [Villem Flusser "On Doubt"](https://github.com/periode/software-art-text/blob/master/assets/readings/flusser_doubt.pdf)
-  - **Add** 2-3 paragraphs of response to the [Readings Doc](https://docs.google.com/document/d/1bHBWPR4_hHviqBfkgYN6biPDV4-LfBecwr46cApOEgo/edit?usp=sharing) (login to your NYU Google account to access)
--->
 - **Add** the text of a poem you like to the [Readings Doc](https://docs.google.com/document/d/1bHBWPR4_hHviqBfkgYN6biPDV4-LfBecwr46cApOEgo/edit?usp=sharing) (login to your NYU Google account to access). Be prepared to explain what appeals to you about the poem in class
 
 ### Week 1 (1/20)
@@ -296,24 +291,51 @@
   - **Prepare** to present your work in class (6-8 minutes + discussion)
 
 
-
 ## <a name="week5"></a>Week 5
 
 ### Week 5 (2/15)
 - Assignment 2 Fiction Presentations
 
+- Discuss Final Assignment
+  - For the Final Assignment you can choose to continue working on one of your previous projects or create a new work.
+  - The work should:
+    - Build on concepts and techniques that we've covered in class
+    - Be presented on a web page (can be a Colab or standalone webpage) 
+    - The presented work should have a definite aesthetic. It could be for example raw code, a polished output, or a physical object, and it should have an intentional artistic presentation.
+  - The text should be accompanied by the following documentation:
+    - A link to your Colab or source code
+      - See [Syllabus - Coding](https://github.com/NYUAD-IM/Software-Art-Text/blob/main/Syllabus.md#coding)
+    - A writeup (on your webpage or in your Colab):
+      - See [Syllabus - Writing](https://github.com/NYUAD-IM/Software-Art-Text/blob/main/Syllabus.md#writing)
+      - Consider the following prompts:
+        - How does your project continue on themes / topics you have explored in the class?
+        - Why did you choose to present the work in the way you did? Do you consider the code to be the artwork? The output? Both?
+        - What algorithms are you using and how did they affect your process and output?
+  - **Add** the links to your assignment, source code, and documentation to the [Assignments Spreadsheet](https://docs.google.com/spreadsheets/d/19Zj-k-pxUY0rhpp6yGIoJchRbJk0z5lj2b1iqz1W-Uw/edit?usp=sharing)
+  - **Prepare** to present your work in class (6-8 minutes + discussion)
 
 #### Homework 
 
 - **Read** [Listening Post 10 Years On](https://web.archive.org/web/20190802123753/https://modes.io/listening-post-ten-years-on/)
-
-<!--
+  - **Add** 2-3 paragraphs of response to the [Readings Doc](https://docs.google.com/document/d/1bHBWPR4_hHviqBfkgYN6biPDV4-LfBecwr46cApOEgo/edit?usp=sharing)
+- **Start* developing your idea for your Final Assignment
 
 ### Week 5 (2/17)
+- Discuss Listening Post
+- Final assignment idea checkin
+- Stochasticity
+- Markov Chains
+  - (Markov Chains
+Explained Visually)[https://setosa.io/ev/markov-chains/]
+#### Homework 
+- **Read** [Eliza](https://github.com/periode/software-art-text/blob/master/assets/readings/weizenbaum_eliza.pdf)
+  - **Add** 2-3 paragraphs of response to the [Readings Doc](https://docs.google.com/document/d/1bHBWPR4_hHviqBfkgYN6biPDV4-LfBecwr46cApOEgo/edit?usp=sharing)
+- **Create** a Colab sketch that generates text using a Markov chain
 
 ## <a name="week6"></a>Week 6
 
 ### Week 6 (2/22)
+- Final assignment checkin
 
 ### Week 6 (2/24)
 
@@ -323,8 +345,15 @@
 - Final Assignment Presentations
 
 ### Week 7 (3/3)
+- Final Assignment Presentations
 - Course Review
 - Goodbyes!
 
+
+
+<!--
+- **Read**
+  - [Villem Flusser "On Doubt"](https://github.com/periode/software-art-text/blob/master/assets/readings/flusser_doubt.pdf)
+  - **Add** 2-3 paragraphs of response to the [Readings Doc](https://docs.google.com/document/d/1bHBWPR4_hHviqBfkgYN6biPDV4-LfBecwr46cApOEgo/edit?usp=sharing) (login to your NYU Google account to access)
 -->
 

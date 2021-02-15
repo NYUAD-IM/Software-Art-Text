@@ -1,4 +1,5 @@
 # Software Art: Text
+IM-UH 2116 Spring 2021<br/>
 
 *"One thing that foreigners, computers and poets have in common is that they make unexpected linguistic associations."*<br>
 -- Jasia Reichardt
