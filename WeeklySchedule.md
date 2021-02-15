@@ -320,7 +320,7 @@
   - [5b Transformer GPT2 Colab](https://colab.research.google.com/drive/1stSZsIqRkcSIf2fUMvjlV7YNVah5RnVu?usp=sharing)
 
 
-#### Homework 
+#### Homework (due 2/17)
 
 - **Read** [Listening Post 10 Years On](https://www.researchgate.net/publication/328228327_Revisiting_the_Technical_Achievements_of_Listening_Post_Ten_Years_On) and watch the [Listening Post video](https://www.youtube.com/watch?v=dD36IajCz6A)
   - **Add** 2-3 paragraphs of response to the [Readings Doc](https://docs.google.com/document/d/1bHBWPR4_hHviqBfkgYN6biPDV4-LfBecwr46cApOEgo/edit?usp=sharing)
