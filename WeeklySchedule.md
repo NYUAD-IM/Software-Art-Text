@@ -315,8 +315,8 @@
   - **Prepare** to present your work in class (6-8 minutes + discussion)
   
 - Chatbot Example
-  - (5a Transformer Chatbot Colab)[https://colab.research.google.com/drive/1XsPJHpyDA31NJ3UrHluAa6ypfy9Dxssm?usp=sharing]
-- (Write with Transformer)[https://transformer.huggingface.co/]
+  - [5a Transformer Chatbot Colab](https://colab.research.google.com/drive/1XsPJHpyDA31NJ3UrHluAa6ypfy9Dxssm?usp=sharing)
+- [Write with Transformer](https://transformer.huggingface.co/)
 
 #### Homework 
 
