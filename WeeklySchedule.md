@@ -5,7 +5,7 @@
 * [Week 3 (2/1) - Assignment 1 Assemblage Presentations - Fiction / Machine Learning](#week3)
 * [Week 4 (2/8) - Machine Learning - Workshop](#week4)
 * [Week 5 (2/15) - Assignment 2 Fiction Presentations](#week5)
-* [Week 6 (2/21) - Stochastics](#week6)
+* [Week 6 (2/21) - Stochastic Processes](#week6)
 * [Week 7 (3/1) - Final Presentations](#week7)
 
 ## <a name="week1"></a>Week 1 - Introduction / Python & Colab
@@ -332,14 +332,17 @@
 ### Week 5 (2/17)
 - Discuss Listening Post
 - Final assignment idea checkin
-- Stochasticity
+- Stochastic Processes
+- Simple Grammars
+  - [5c Simple Grammar](https://colab.research.google.com/drive/1lcgSibWsbrdh3d4wZbH9CNPClwaeOSW8?usp=sharing)
 - Markov Chains
-  - (Markov Chains
-Explained Visually)[https://setosa.io/ev/markov-chains/]
+  - [Markov Chains Explained Visually](https://setosa.io/ev/markov-chains/)
 #### Homework 
+  - [Markovify Python library](https://github.com/jsvine/markovify)
+    - [5d Markovify](https://colab.research.google.com/drive/134O8wcue1uDAH9xID2FD0FIjOK0IvcHf?usp=sharing)
 - **Read** [Eliza](https://github.com/periode/software-art-text/blob/master/assets/readings/weizenbaum_eliza.pdf)
   - **Add** 2-3 paragraphs of response to the [Readings Doc](https://docs.google.com/document/d/1bHBWPR4_hHviqBfkgYN6biPDV4-LfBecwr46cApOEgo/edit?usp=sharing)
-- **Create** a Colab sketch that generates text using a Markov chain
+- **Create** a Colab sketch that generates text using a Markov chain or simple grammar
 
 ## <a name="week6"></a>Week 6
 
