@@ -333,6 +333,18 @@
 - Discuss Listening Post
 - Final assignment idea checkin
 - Stochastic Processes
+  - [Chance in Art](https://www.dartmouth.edu/~chance/course/student_projects/Kristin/Kristin.html)
+  - [Musikalisches Würfelspiel](https://en.wikipedia.org/wiki/Musikalisches_W%C3%BCrfelspiel)
+  - [Musikalisches Würfelspiel (YouTube)](https://www.youtube.com/watch?v=fK2MCXpDWB4)
+  - [Iannis Xenakis: Science as art](https://greeknewsagenda.gr/index.php/topics/culture-society/6770-iannis-xenakis)
+  - Theo Lutz
+    - [Biography](http://dada.compart-bremen.de/item/agent/687)
+    - [Stochastic texts by Theo Lutz (1959)](https://www.stuttgarter-schule.de/lutz_schule_en.htm)
+    - [Das Schloß (The Castle) by Kafka](https://en.wikipedia.org/wiki/The_Castle_%28novel%29)
+    - [Web implementation](https://nickm.com/memslam/stochastic_texts.html)
+    - [Python code](https://nickm.com/memslam/stochastic_texts.py)
+    - [Interactive web version](https://auer.netzliteratur.net/0_lutz/lutz_original.html)
+    
 - Simple Grammars
   - [5c Simple Grammar](https://colab.research.google.com/drive/1lcgSibWsbrdh3d4wZbH9CNPClwaeOSW8?usp=sharing)
 - Markov Chains
