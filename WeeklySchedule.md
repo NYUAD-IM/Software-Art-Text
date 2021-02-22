@@ -364,6 +364,14 @@
 ### Week 6 (2/22)
 - Eliza Discussion
 - Final assignment checkin
+- Final assignment work session
+
+#### Homework (due 2/22)
+- **Read** the highlighted paragraphs and last section "What is Cybertext?" of [Cybertext](https://github.com/periode/software-art-text/blob/master/assets/readings/aarseth_cybertext.pdf)
+  - **Add** 2-3 paragraphs of response to the [Readings Doc](https://docs.google.com/document/d/1bHBWPR4_hHviqBfkgYN6biPDV4-LfBecwr46cApOEgo/edit?usp=sharing)
+    - How does the concept of an information feedback loop apply to your work?
+    - What do you think the author means by "text can never be reduced to a stand-alone sequence of words?
+- **Work** on your Final Assignment
 
 ### Week 6 (2/24)
 
