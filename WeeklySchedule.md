@@ -367,6 +367,8 @@
   - [Candy Heart messages written by a neural network](https://aiweirdness.com/post/170685749687/candy-heart-messages-written-by-a-neural-network)
   - [This time I DIDN’T train a neural net to generate candy hearts](https://aiweirdness.com/post/190825122292/this-time-i-didnt-train-a-neural-net-to-generate)
 - Artwork examples
+  - [Jenny Holzer - Projections](https://projects.jennyholzer.com/projections)
+  - [Jenny Holzer - LEDs](https://projects.jennyholzer.com/LEDs)
   - [SMS Slingshot](http://www.vrurban.org/smslingshot.html)
   - [Digital Calligraffiti](http://digitalcalligraffiti.org/)
   - [Infl3ctor](https://www.michaelang.com/project/infl3ctor)
