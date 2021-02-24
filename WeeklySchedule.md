@@ -383,6 +383,29 @@
 - **Work** on your Final Assignment
 
 ### Week 6 (2/24)
+- Discuss Cybertext reading
+- ASCII art
+  - [ASCII art examples (Wikipedia)](https://en.wikipedia.org/wiki/ASCII_art)
+  - [ASCII Art Archive](https://www.asciiart.eu/)
+  - [The Lost Ancestors of ASCII Art](https://www.theatlantic.com/technology/archive/2014/01/the-lost-ancestors-of-ascii-art/283445/)
+- Text on image
+  - [6a Text on Image (Colab)](https://colab.research.google.com/drive/132BJhatRuF5u0xgTnnPjYE_gJdurTzbn?usp=sharing)
+  - [Drawing Text on Images with Pillow and Python](https://www.blog.pythonlibrary.org/2021/02/02/drawing-text-on-images-with-pillow-and-python/)
+  - [Putting text on image with Python](https://www.haptik.ai/tech/putting-text-on-image-using-python/)
+  
+- Challenges / opportunities of multi-lingual text
+  - [Modernizing Arabic Type for a Digital Audience](https://design.google/library/modernizing-arabic-typography-type-design/)
+  - [Arabic Reshaper](https://github.com/mpcabd/python-arabic-reshaper)
+  - [6b Multilingual Text on Image (Colab)](https://colab.research.google.com/drive/1J9mzWzkOxKcHQQxqHmNvruvTuEGPGzGq?usp=sharing)
+
+#### Homework (due 3/1)
+- **Create** a Colab notebook that overlays multilingual text over an image
+  - Choose 3 pairings of text/image that go together to form a trytypch (sequence of 3 images)
+  - Why did you choose these particular images and text? What happens when you put them together?
+- **Add** a link to your Colab to the [Sketches Spreadsheet](https://docs.google.com/spreadsheets/d/1r7vP1i6M4yef5M0_E-yHuoVpyYvxM1T05yCEytOVe4E/edit?usp=sharing) (login to your NYU Google account to access)
+
+- **FINISH** your Final Assignment. Be ready to present your Final Assignment in class.
+
 
 ## <a name="week7"></a>Week 7
 
