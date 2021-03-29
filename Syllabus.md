@@ -8,13 +8,14 @@ Meeting Time: Mondays 2:40 - 5:20pm & Wednesdays 2:40pm - 3:55pm<br/>
 Location: Zoom (check NYU Classes for Zoom link)</br>
 Office Hours: Discord or by appointment</br>
 Credits: 2<br/>
-Class website: https://github.com/NYUAD-IM/Software-Art-Text
-Add/Drop Period: 1 week for 7-week classes
+Add/Drop Period: 1 week for 7-week classes<br/>
+Class website: https://github.com/NYUAD-IM/Software-Art-Text<br/>
 
-This course counts towards the following NYUAD degree requirement:
-
-* Multidisciplinary Minors > Interactive Media
-* Majors > Literature and Creative Writing
+This course appears in:
+* Majors > Interactive Media > Computational Media
+* Majors > Literature and Creative Writing > Creative Writing
+* Majors > Literature and Creative Writing > Introductory Literature Electives
+* Minors > Interactive Media
 
 ## Course Description
 Although computers only appeared a few decades ago, automation, repetition and process are concepts that have been floating around artists’ minds for almost a century. As machines enabled us to operate on a different scale, they escaped the domain of the purely functional and started to be used, and understood, by artists. The result has been the emergence of code-based art, a relatively new field in the rich tradition of arts history that today acts as an accessible new medium in the practice of visual artists, sculptors, musicians and performers.
