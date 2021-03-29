@@ -9,6 +9,7 @@ Location: Zoom (check NYU Classes for Zoom link)</br>
 Office Hours: Discord or by appointment</br>
 Credits: 2<br/>
 Class website: https://github.com/NYUAD-IM/Software-Art-Text
+Add/Drop Period: 1 week for 7-week classes
 
 This course counts towards the following NYUAD degree requirement:
 
