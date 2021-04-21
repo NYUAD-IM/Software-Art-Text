@@ -24,12 +24,14 @@ Software Art: Text is an introduction to the history, theory and practice of com
 
 Software Art: Text is a complement to Software Art: Image, a 7-week course on the use of software from the perspective of the visual arts.
 
-## Course Objectives
+## Course Learning Outcomes (linked Program Learning Outcomes)
 When the course is finished, students will:
-* Have developed an understanding of process-based artistic practice.
-* Have developed a knowledge of the unique features of software in creative writing. Be accustomed to presenting, commenting and critiquing software art.
-* Have developed their own artistic practice through writing software.
-* Have acquired technical proficiency writing creative programs in Bash and Python. Have gained a greater understanding of the place of the written word in a world immersed in computation.
+* Have developed an understanding of process-based artistic practice. (PLOs 1,2,3)
+* Have developed a knowledge of the unique features of software in creative writing. Be accustomed to presenting, commenting and critiquing software art. (PLOs 2,4,7)
+* Have developed their own artistic practice through writing software. (PLOs 2,3,5,6)
+* Have acquired technical proficiency writing creative programs in Bash and Python. Have gained a greater understanding of the place of the written word in a world immersed in computation. (PLOs 3,5,6)
+
+The [Program Learning Outcomes (PLOs)](#interactive-media-program-learning-outcomes) are described below.
 
 ## Course Assignments
 This course consists of both theoretical discussion and in hands-on assignments. The course assignments will therefore include readings, writing, presenting and coding.
@@ -75,7 +77,7 @@ Students will be given grades based on a 100 point scale. Each assignment will b
 * 76-79 C+ etc.
 
 ## Readings
- 
+
 Most readings are available as PDFs here (https://github.com/periode/software-art-text/tree/master/assets/readings).
 
 Required readings:
@@ -96,3 +98,14 @@ The full policies and procedures relating to Academic Integrity may be found on 
 Student Portal.
 
 If you’re going to copy/paste some code, please include the author/StackOverflow link as a comment.
+
+## Interactive Media Program Learning Outcomes
+Upon completion of the major in Interactive Media at NYU Abu Dhabi, all students are expected to have fulfilled the following:
+1. Research and Understanding: IM students will cultivate a substantive understanding of the past, present, and future landscape of Interactive Media.
+2. Analytical Thinking: IM students will be challenged to answer fundamental questions relating to the field of Interactive Media.
+3. Conceptual Thinking: IM students will develop conceptual skills through the use of computational and interactive media tools to create project-based work and project oriented research.
+4. Critical Thinking: IM students will refine their critical thinking skills by analyzing and critiquing work in cultural, social, historical, ethical, and aesthetic contexts.
+5. Technical Implementation: IM students will cultivate technical skills with contemporary media technologies to execute their coursework.
+6. Creative Processes: IM students will gain the ability to explore, innovate, and realize creative ideas in multiple fields of inquiry and interest.
+7. Organization and Communication: IM students will develop professional practices of delivering and sharing their work.
+8. Collaboration: IM Students will gain experience in collaboration through active participation in group and team-based work.
