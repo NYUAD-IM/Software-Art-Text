@@ -4,7 +4,7 @@ IM-UH 2116 Spring 2022<br/>
 *"One thing that foreigners, computers and poets have in common is that they make unexpected linguistic associations."*<br>
 -- Jasia Reichardt
 
-_Spring 2021_<br/>
+_Spring 2022_<br/>
 Instructor: [Michael Ang](https://michaelang.com) (michael.ang@nyu.edu)<br/>
 Meeting Time: Mondays 2:40 - 5:20pm & Wednesdays 4:05pm - 5:20pm<br/>
 Location: Monday West Admin (WA-003) - Wednesday Social Science (A5-017)</br>
