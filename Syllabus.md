@@ -1,11 +1,11 @@
 _NYU Abu Dhabi — Interactive Media_
 # SOFTWARE ART: TEXT
 
-IM-UH 2116 Spring 2021<br/>
+IM-UH 2116 Spring 2022<br/>
 ## COURSE SYLLABUS
 Instructor: [Michael Ang](https://michaelang.com) (michael.ang@nyu.edu)<br/>
-Meeting Time: Mondays 2:40 - 5:20pm & Wednesdays 2:40pm - 3:55pm<br/>
-Location: Zoom (check NYU Classes for Zoom link)</br>
+Meeting Time: Mondays 2:40 - 5:20pm & Wednesdays 4:05pm - 5:20pm<br/>
+Location: Zoom (check NYU Classes for Zoom link) - In-person classroom TBD</br>
 Office Hours: Discord or by appointment</br>
 Credits: 2<br/>
 Add/Drop Period: 1 week for 7-week classes<br/>
