@@ -1,16 +1,16 @@
 # Weekly Schedule
 
-* [Week 1 (1/18) - Introduction](#week1)
-* [Week 2 (1/25) - Scraping, (ir)regular expressions](#week2)
-* [Week 3 (2/1) - Assignment 1 Assemblage Presentations - Fiction / Machine Learning](#week3)
-* [Week 4 (2/8) - Machine Learning - Workshop](#week4)
-* [Week 5 (2/15) - Assignment 2 Fiction Presentations](#week5)
-* [Week 6 (2/21) - Stochastic Processes](#week6)
-* [Week 7 (3/1) - Final Presentations](#week7)
+* [Week 1 (1/24) - Introduction](#week1)
+* [Week 2 (1/31) - Scraping, (ir)regular expressions](#week2)
+* [Week 3 (2/7) - Assignment 1 Assemblage Presentations - Fiction / Machine Learning](#week3)
+* [Week 4 (2/14) - Machine Learning - Workshop](#week4)
+* [Week 5 (2/21) - Assignment 2 Fiction Presentations](#week5)
+* [Week 6 (2/28) - Stochastic Processes](#week6)
+* [Week 7 (3/7) - Final Presentations](#week7)
 
 ## <a name="week1"></a>Week 1 - Introduction / Python & Colab
 
-### Week 1 (1/17) Introductions / Group Exercise / Colab
+### Week 1.1 (1/24) Introductions / Group Exercise / Colab
 - Course Overview
 - Introductions
 
@@ -27,7 +27,7 @@
   - [Example text - Project Gutenberg: Alice In Wonderland](http://www.gutenberg.org/ebooks/11)
   - [02 Getting a webpage Colab](https://colab.research.google.com/drive/1sNHW7SQ_VBcExKnsUzh311Vkzkbb1enW?usp=sharing)
 
-#### Homework (due before start of next class 1/20)
+#### Homework (due before start of next class 1/26)
 - **Join** (optional) the IM Discord server #softwareart channel. Use of Discord is optional but allows you to ask questions and share links with the professor and class at any time.
 
 - **Create** a Colab notebook that can generate a paragraph of text using algorithmically chosen words. Use at least 2 different algorithms for generating the individual sentences. Generate 5 paragraphs of text and include the generated paragraphs as static text in your notebook. Include a short write up:
@@ -38,7 +38,7 @@
 
 - **Add** the text of a poem you like to the [Readings Doc](https://docs.google.com/document/d/1bHBWPR4_hHviqBfkgYN6biPDV4-LfBecwr46cApOEgo/edit?usp=sharing) (login to your NYU Google account to access). Be prepared to explain what appeals to you about the poem in class
 
-### Week 1 (1/20)
+### Week 1.2 (1/26)
 - Review Homework
   - Generated sentences
   - Collected poems
@@ -47,7 +47,7 @@
   - [The Cut-up Technique](https://everything4writers.tumblr.com/post/130654244711/stuck-exercise-11-the-cut-up-technique)
   - [William Burroughs, "The Cut Up Method"](https://www.writing.upenn.edu/~afilreis/88v/burroughs-cutup.html)
 
-#### Homework (due before start of next class 1/25)
+#### Homework (due before start of next class 1/31)
 - **Read** the intro to [code {poems}](https://github.com/NYUAD-IM/Software-Art-Text/blob/main/readings/bertram_codepoems.pdf)
   - **Add** your response to the [Readings Doc](https://docs.google.com/document/d/1bHBWPR4_hHviqBfkgYN6biPDV4-LfBecwr46cApOEgo/edit?usp=sharing)
     - When do you consider code to be poetry? (2 paragraphs)
@@ -57,7 +57,7 @@
 
 ## <a name="week2"></a>Week 2
 
-### Week 2 (1/25)
+### Week 2.1 (1/31)
 - Review Homework
 
 - Talk about Project 1 Assemblage **due Week 3 (2/1)**
@@ -83,7 +83,7 @@
   - [Requests: HTTP for Humans™](https://requests.readthedocs.io/en/master/)
   - [Beautiful Soup: Build a Web Scraper With Python](https://realpython.com/beautiful-soup-web-scraper-python/)
   - [02b Parsing a webpage Colab](https://colab.research.google.com/drive/13PVkzChLPxuByMlhVbp01cbhQkBvLlwL?usp=sharing)
-  
+
 - Regular expressions
   - [Python regular expressions interactive tutorial](https://www.w3schools.com/python/python_regex.asp)
   - [Python RegEx: re.match(), re.search(), re.findall()](https://www.guru99.com/python-regular-expressions-complete-tutorial.html)
@@ -92,7 +92,7 @@
   - [02c Matching lines Colab](https://colab.research.google.com/drive/1y4NteL9qCFRLdkLIDEiFALvBsLdi1j7T?usp=sharing)
 
 
-#### Homework (due before start of next class 1/27) 
+#### Homework (due before start of next class 2/2)
 - **Create** a new text by scraping a page (or pages) from the Internet. Get at least 3 pieces of text out of the scraped text/web page and remix them into a new text using some of the techniques we've learned (or new ones).
     - **Add** a link to your Colab to the [Sketches Spreadsheet](https://docs.google.com/spreadsheets/d/1r7vP1i6M4yef5M0_E-yHuoVpyYvxM1T05yCEytOVe4E/edit?usp=sharing)
 - **Read** [grep command in Unix/Linux](https://www.geeksforgeeks.org/grep-command-in-unixlinux)
@@ -103,8 +103,8 @@
   - What source texts will you use?
   - What kind of output do you envision? Poetry? Code? Sense? Nonsense?
 
-### Week 2 (1/27)
-  
+### Week 2.2 (2/2)
+
 - Regular Expressions for text matching / substituion
   - [03a Beautiful Soup x Regular Expressions Colab](https://colab.research.google.com/drive/1AVuFkhnvH1T244L8TvhNqb539F-W6y1s?usp=sharing)
 - Replacing strings
@@ -115,8 +115,8 @@
   - [03b TextBlob grammar](https://colab.research.google.com/drive/1GBXRnaXuKp1Ih6qKOR6P3rfdxWlCOLWy?usp=sharing)
 - Converting Python code for Colab
   - If you get "print" errors you may need to [convert from Python 2 to 3](https://www.pythonconverter.com/)
-  
-#### Homework (due before start of next class 2/1)
+
+#### Homework (due before start of next class 2/7)
 - **Finish** your Project 1 Assemblage
   - **Create** a text artwork using Python. The artwork could be the generated text, the code itself, or a combination
   - The work should:
@@ -140,7 +140,7 @@
 
 ## <a name="week3"></a>Week 3
 
-### Week 3 (2/1)
+### Week 3.1 (2/7)
 - Project 1 Assemblage Presentations
 
 - Introduction to Assignment 2 Fiction
@@ -155,7 +155,7 @@
   - [OpenAI Releases Fake News Bot It Previously Deemed Too Dangerous](https://www.extremetech.com/extreme/301662-openai-releases-fake-news-bot-it-previously-deemed-too-dangerous)
     [Faking the News with Natural Language Processing and GPT-2](https://medium.com/@ageitgey/deepfaking-the-news-with-nlp-and-transformer-models-5e057ebd697d)
   - [Finetuning GPT-2 on your own text Colab](https://colab.research.google.com/drive/1uKXS6a9q5qrcU3UdSRpCjYnKHbC-N4pb?usp=sharing)
-  
+
   - GPT in-depth
     - [GPT explained - multiple difficulty levels](https://towardsdatascience.com/you-can-understand-gpt-3-with-these-youtube-videos-6a30887c928b)
     - [How transformers work](https://towardsdatascience.com/transformers-141e32e69591)
@@ -163,7 +163,7 @@
     - [Talk to transformer](https://app.inferkit.com/demo)
 
 
-#### Homework (due before start of next class 2/8) 
+#### Homework (due before start of next class 2/9)
 - **Read** an article about GPT-3 and write a 2-3 paragraph response to the [Readings Doc](https://docs.google.com/document/d/1bHBWPR4_hHviqBfkgYN6biPDV4-LfBecwr46cApOEgo/edit?usp=sharing)
   - How do you think machine learning will affect the future of writing?
   - What creative possibilities do you see for automatic text generation?
@@ -180,7 +180,7 @@
   - [Finetuning GPT-2 on your own text Colab](https://colab.research.google.com/drive/1qu0yGoPOGf7_UIdenz--uDZrUl-lbO4K?usp=sharing)
   - **Add** a link to your Colab to the [Sketches Spreadsheet](https://docs.google.com/spreadsheets/d/1r7vP1i6M4yef5M0_E-yHuoVpyYvxM1T05yCEytOVe4E/edit?usp=sharing) (login to your NYU Google account to access)
 
-### Week 3 (2/3)
+### Week 3.2 (2/9)
 
 - Assignment presentations
 - Review Homework
@@ -190,7 +190,7 @@
   - **Create** a short work of fiction using Python
   - The work should:
     - Be 3 or more paragraphs long, with a narrative story / arc
-    - Be presented on a web page (can be a Colab or standalone webpage) 
+    - Be presented on a web page (can be a Colab or standalone webpage)
     - You can incorporate code that you have previously used
     - You can generate text "from scratch", remix existing content, and/or generate text using machine learning (e.g. GPT-2)
     - A new story / fiction should be generated each time the program is run (you can choose 1 or more of the generated outputs to present on the web page)
@@ -206,19 +206,19 @@
         - How does the presentation of your work shape the response of the reader?
 
 
-#### Homework (due before start of next class 2/8) 
+#### Homework (due before start of next class 2/14)
 - **Read** Virtual Muse (select sign in with SSO then search for "New York University" on right hand side to login with Shibboleth)
-  - [Virtual Muse - Chapter 6 Autopoet](https://muse.jhu.edu/chapter/49391/pdf) 
+  - [Virtual Muse - Chapter 6 Autopoet](https://muse.jhu.edu/chapter/49391/pdf)
   - [Virtual Muse - Chapter 9 Unconclusion](https://muse.jhu.edu/chapter/49394/pdf)
   - **Add** your response to the [Readings Doc](https://docs.google.com/document/d/1bHBWPR4_hHviqBfkgYN6biPDV4-LfBecwr46cApOEgo/edit?usp=sharing)
     - Do you agree with the (un)conclusions that the author makes about computers and poetry? How does your own opinion differ? (1-2 paragraphs)
     - What are some ways could you involve the reader in the process of generating your texts? (1-2 paragraphs)
-  
+
 - **Start** working on your Fiction Assignment. Develop your idea and be prepared to talk about it in class.
 
 ## <a name="week4"></a>Week 4
 
-### Week 4 (2/8)
+### Week 4.1 (2/14)
 
 - Assignment idea feedback
 - More text generation techniques
@@ -229,22 +229,22 @@
     - [04c TextBlob Colab](https://colab.research.google.com/drive/1ar83NFWKr8_kWnIR81TspbiqMCPsRufh?usp=sharing)
     - [Part of Speech Tagging Using TextBlob](https://www.geeksforgeeks.org/python-part-of-speech-tagging-using-textblob/)
     - [03_language examples (Python 2)](https://github.com/periode/software-art-text/tree/master/03_language)
-  
+
 - Text To Speech
   - [04a Text To Speech Colab](https://colab.research.google.com/drive/1_-bHvz7I2fxJkg7qic1Niq8CngG3uov9?usp=sharing)
-  
+
 - Using Web APIs
   - [04d OpenWeather API Colab](https://colab.research.google.com/drive/16yA8Pj2r8qFeBadVer8RBCSvlmIQbECE?usp=sharing)
-  
-  
+
+
 - Work session
 
-#### Homework (due before start of next class 2/10)
+#### Homework (due before start of next class 2/16)
 - Keep working on your Fiction Assignment
 - Be ready to show some progress in class
 
 
-### Week 4 (2/10)
+### Week 4.2 (2/16)
 - Assignment checkin
 - Rhyming
   - [04e Pronouncing Rhymes Colab](https://colab.research.google.com/drive/1d1flDV5bdJ6O688-z1oRvrk883MlB5Pm?usp=sharing)
@@ -253,7 +253,7 @@
   - [Positive Words](https://www.enchantedlearning.com/wordlist/positivewords.shtml)
   - [Negative Words](https://www.enchantedlearning.com/wordlist/negativewords.shtml)
 - Dictionary API
-  - [Oxford Dictionaries API](https://developer.oxforddictionaries.com/) 
+  - [Oxford Dictionaries API](https://developer.oxforddictionaries.com/)
   - [Oxford Dictionary API Python Wrapper](https://pypi.org/project/oxforddictionaries/)
 - Web apps on Colab
   - [04e Simple WebApp on Colab](https://colab.research.google.com/drive/1xxfJaSxWVmUHH-BZoJ2niAzv8GEjBP4S?usp=sharing)
@@ -266,14 +266,14 @@
   - [The Listening Post](http://www.digiart21.org/art/the-listening-post)
   - [Mark Hansen and Ben Rubin: Listening Post, Real-Time Data Responsive Environment 2001 (YouTube)](https://www.youtube.com/watch?v=dD36IajCz6A)
   - [Text Rain by Camille Utterback (YouTube)](https://www.youtube.com/watch?v=f_u3sSffS78)
-  
-#### Homework (due 2/15)
+
+#### Homework (due 2/21)
 
 - **Finish** your Project 2 Fiction
   - **Create** a short work of fiction using Python
   - The work should:
     - Be 3 or more paragraphs long, with a narrative story / arc
-    - Be presented on a web page (can be a Colab or standalone webpage) 
+    - Be presented on a web page (can be a Colab or standalone webpage)
     - You can incorporate code that you have previously used
     - You can generate text "from scratch", remix existing content, and/or generate text using machine learning (e.g. GPT-2)
     - A new story / fiction should be generated each time the program is run (you can choose 1 or more of the generated outputs to present on the web page)
@@ -293,14 +293,14 @@
 
 ## <a name="week5"></a>Week 5
 
-### Week 5 (2/15)
+### Week 5.1 (2/21)
 - Assignment 2 Fiction Presentations
 
 - Discuss Final Assignment
   - For the Final Assignment you can choose to continue working on one of your previous projects or create a new work.
   - The work should:
     - Build on concepts and techniques that we've covered in class
-    - Be presented on a web page (can be a Colab or standalone webpage) 
+    - Be presented on a web page (can be a Colab or standalone webpage)
     - The presented work should have a definite aesthetic. It could be for example raw code, a polished output, or a physical object, and it should have an intentional artistic presentation.
   - The text should be accompanied by the following documentation:
     - A link to your Colab or source code
@@ -313,14 +313,14 @@
         - What algorithms are you using and how did they affect your process and output?
   - **Add** the links to your assignment, source code, and documentation to the [Assignments Spreadsheet](https://docs.google.com/spreadsheets/d/19Zj-k-pxUY0rhpp6yGIoJchRbJk0z5lj2b1iqz1W-Uw/edit?usp=sharing)
   - **Prepare** to present your work in class (6-8 minutes + discussion)
-  
+
 - Transformer Examples
   - [Write with Transformer](https://transformer.huggingface.co/)
   - [5a Transformer Chatbot Colab](https://colab.research.google.com/drive/1XsPJHpyDA31NJ3UrHluAa6ypfy9Dxssm?usp=sharing)
   - [5b Transformer GPT2 Colab](https://colab.research.google.com/drive/1stSZsIqRkcSIf2fUMvjlV7YNVah5RnVu?usp=sharing)
 
 
-#### Homework (due 2/17)
+#### Homework (due 2/23)
 
 - **Read** [Listening Post 10 Years On](https://www.researchgate.net/publication/328228327_Revisiting_the_Technical_Achievements_of_Listening_Post_Ten_Years_On) and watch the [Listening Post video](https://www.youtube.com/watch?v=dD36IajCz6A)
   - **Add** 2-3 paragraphs of response to the [Readings Doc](https://docs.google.com/document/d/1bHBWPR4_hHviqBfkgYN6biPDV4-LfBecwr46cApOEgo/edit?usp=sharing)
@@ -329,7 +329,7 @@
     - Do you feel that Listening Post makes a statement about privacy and eavesdropping? What do you think the work is about?
 - **Start** developing your idea for your Final Assignment and be ready to share your idea in class
 
-### Week 5 (2/17)
+### Week 5.2 (2/23)
 - Discuss Listening Post
 - Final assignment idea checkin
 - Stochastic Processes
@@ -344,15 +344,15 @@
     - [Web implementation](https://nickm.com/memslam/stochastic_texts.html)
     - [Python code](https://nickm.com/memslam/stochastic_texts.py)
     - [Interactive web version](https://auer.netzliteratur.net/0_lutz/lutz_original.html)
-    
+
 - Simple Grammars
   - [5c Simple Grammar](https://colab.research.google.com/drive/1lcgSibWsbrdh3d4wZbH9CNPClwaeOSW8?usp=sharing)
 - Markov Chains
   - [Markov Chains Explained Visually](https://setosa.io/ev/markov-chains/)
   - [Markovify Python library](https://github.com/jsvine/markovify)
     - [5d Markovify](https://colab.research.google.com/drive/134O8wcue1uDAH9xID2FD0FIjOK0IvcHf?usp=sharing)
-    
-#### Homework (due 2/22)
+
+#### Homework (due 2/28)
 - **Read** [Eliza](https://github.com/periode/software-art-text/blob/master/assets/readings/weizenbaum_eliza.pdf)
   - **Add** 2-3 paragraphs of response to the [Readings Doc](https://docs.google.com/document/d/1bHBWPR4_hHviqBfkgYN6biPDV4-LfBecwr46cApOEgo/edit?usp=sharing)
 - **Create** a Colab sketch that generates text using a Markov chain or simple grammar
@@ -361,7 +361,7 @@
 
 ## <a name="week6"></a>Week 6
 
-### Week 6 (2/22)
+### Week 6.1 (2/28)
 - Eliza Discussion
 - AI Weirdness
   - [Candy Heart messages written by a neural network](https://aiweirdness.com/post/170685749687/candy-heart-messages-written-by-a-neural-network)
@@ -375,14 +375,14 @@
 - Final assignment checkin
 - Final assignment work session
 
-#### Homework (due 2/24)
+#### Homework (due 2/28)
 - **Read** the highlighted paragraphs and last section "What is Cybertext?" of [Cybertext](https://github.com/periode/software-art-text/blob/master/assets/readings/aarseth_cybertext.pdf)
 - **Add** 2-3 paragraphs of response to the [Readings Doc](https://docs.google.com/document/d/1bHBWPR4_hHviqBfkgYN6biPDV4-LfBecwr46cApOEgo/edit?usp=sharing)
   - How does the concept of an information feedback loop apply to your work?
   - What is your interpretation of "text can never be reduced to a stand-alone sequence of words"?
 - **Work** on your Final Assignment
 
-### Week 6 (2/24)
+### Week 6.2 (3/2)
 - Discuss Cybertext reading
 - ASCII art
   - [ASCII art examples (Wikipedia)](https://en.wikipedia.org/wiki/ASCII_art)
@@ -392,13 +392,13 @@
   - [6a Text on Image (Colab)](https://colab.research.google.com/drive/132BJhatRuF5u0xgTnnPjYE_gJdurTzbn?usp=sharing)
   - [Drawing Text on Images with Pillow and Python](https://www.blog.pythonlibrary.org/2021/02/02/drawing-text-on-images-with-pillow-and-python/)
   - [Putting text on image with Python](https://www.haptik.ai/tech/putting-text-on-image-using-python/)
-  
+
 - Challenges / opportunities of multi-lingual text
   - [Modernizing Arabic Type for a Digital Audience](https://design.google/library/modernizing-arabic-typography-type-design/)
   - [Arabic Reshaper](https://github.com/mpcabd/python-arabic-reshaper)
   - [6b Multilingual Text on Image (Colab)](https://colab.research.google.com/drive/1J9mzWzkOxKcHQQxqHmNvruvTuEGPGzGq?usp=sharing)
 
-#### Homework (due 3/1)
+#### Homework (due 3/7)
 - **Create** a Colab notebook that overlays multilingual text over an image
   - Choose 3 pairings of text/image that go together to form a trytypch (sequence of 3 images)
   - Why did you choose these particular images and text? What happens when you put them together?
@@ -409,12 +409,12 @@
 
 ## <a name="week7"></a>Week 7
 
-### Week 7 (3/1)
+### Week 7.1 (3/7)
 - Final Assignment due
   - For the Final Assignment you can choose to continue working on one of your previous projects or create a new work.
   - The work should:
     - Build on concepts and techniques that we've covered in class
-    - Be presented on a web page (can be a Colab or standalone webpage) 
+    - Be presented on a web page (can be a Colab or standalone webpage)
     - The presented work should have a definite aesthetic. It could be for example raw code, a polished output, or a physical object, and it should have an intentional artistic presentation.
   - The text should be accompanied by the following documentation:
     - A link to your Colab or source code
@@ -432,11 +432,13 @@
 
 - Artist Talk
 
-### Week 7 (3/3)
+### Week 7.1 (3/7)
+- Final Assignment Presentations
+
+### Week 7.2 (3/9)
 - Final Assignment Presentations
 - Course Review
 - Goodbyes!
-
 
 
 <!--
@@ -444,4 +446,3 @@
   - [Villem Flusser "On Doubt"](https://github.com/periode/software-art-text/blob/master/assets/readings/flusser_doubt.pdf)
   - **Add** 2-3 paragraphs of response to the [Readings Doc](https://docs.google.com/document/d/1bHBWPR4_hHviqBfkgYN6biPDV4-LfBecwr46cApOEgo/edit?usp=sharing) (login to your NYU Google account to access)
 -->
-
