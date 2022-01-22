@@ -20,11 +20,17 @@ https://github.com/NYUAD-IM/Software-Art-Text
 
 [Assignments](https://github.com/NYUAD-IM/Software-Art-Text/blob/main/Assignments.md)
 
-Class recordings: available on [NYU Classes](https://newclasses.nyu.edu/) (Class Name->Zoom->Cloud Recordings)
-
-**Discord channel #softwareart:** invite on [NYU Classes](https://newclasses.nyu.edu/)
+**Discord channel #softwareart:**
+* private invite on [Brightspace->Content](https://brightspace.nyu.edu/d2l/le/lessons/171383/units/6558447)
 
 [Readings](https://github.com/periode/software-art-text/tree/master/assets/readings)
+
+[Brightspace](https://brightspace.nyu.edu/d2l/home/171383)
+* Zoom meeting link and recordings (Zoom)
+* Submission of assignments (Assignments)
+* Reading discussions (Discussions)
+* Discord private invite link (Content)
+* Group signup (More Tools->Groups)
 
 ---
 
