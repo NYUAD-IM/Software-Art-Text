@@ -375,7 +375,7 @@
 - Final assignment checkin
 - Final assignment work session
 
-#### Homework (due 2/28)
+#### Homework (due 3/2)
 - **Read** the highlighted paragraphs and last section "What is Cybertext?" of [Cybertext](https://github.com/periode/software-art-text/blob/master/assets/readings/aarseth_cybertext.pdf)
 - **Add** 2-3 paragraphs of response to the [Readings Doc](https://docs.google.com/document/d/1bHBWPR4_hHviqBfkgYN6biPDV4-LfBecwr46cApOEgo/edit?usp=sharing)
   - How does the concept of an information feedback loop apply to your work?
