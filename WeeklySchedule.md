@@ -372,18 +372,7 @@
   - [SMS Slingshot](http://www.vrurban.org/smslingshot.html)
   - [Digital Calligraffiti](http://digitalcalligraffiti.org/)
   - [Infl3ctor](https://www.michaelang.com/project/infl3ctor)
-- Final assignment checkin
-- Final assignment work session
 
-#### Homework (due 3/2)
-- **Read** the highlighted paragraphs and last section "What is Cybertext?" of [Cybertext](https://github.com/periode/software-art-text/blob/master/assets/readings/aarseth_cybertext.pdf)
-- **Add** 2-3 paragraphs of response to the [Readings Doc](https://docs.google.com/document/d/1bHBWPR4_hHviqBfkgYN6biPDV4-LfBecwr46cApOEgo/edit?usp=sharing)
-  - How does the concept of an information feedback loop apply to your work?
-  - What is your interpretation of "text can never be reduced to a stand-alone sequence of words"?
-- **Work** on your Final Assignment
-
-### Week 6.2 (3/2)
-- Discuss Cybertext reading
 - ASCII art
   - [ASCII art examples (Wikipedia)](https://en.wikipedia.org/wiki/ASCII_art)
   - [ASCII Art Archive](https://www.asciiart.eu/)
@@ -398,14 +387,26 @@
   - [Arabic Reshaper](https://github.com/mpcabd/python-arabic-reshaper)
   - [6b Multilingual Text on Image (Colab)](https://colab.research.google.com/drive/1J9mzWzkOxKcHQQxqHmNvruvTuEGPGzGq?usp=sharing)
 
-#### Homework (due 3/7)
+
+#### Homework (due 3/2)
+- **Read** the highlighted paragraphs and last section "What is Cybertext?" of [Cybertext](https://github.com/periode/software-art-text/blob/master/assets/readings/aarseth_cybertext.pdf)
+- **Add** 2-3 paragraphs of response to the [Readings Doc](https://docs.google.com/document/d/1bHBWPR4_hHviqBfkgYN6biPDV4-LfBecwr46cApOEgo/edit?usp=sharing)
+  - How does the concept of an information feedback loop apply to your work?
+  - What is your interpretation of "text can never be reduced to a stand-alone sequence of words"?
 - **Create** a Colab notebook that overlays multilingual text over an image
   - Choose 3 pairings of text/image that go together to form a trytypch (sequence of 3 images)
   - Why did you choose these particular images and text? What happens when you put them together?
 - **Add** a link to your Colab to the [Sketches Spreadsheet](https://docs.google.com/spreadsheets/d/1r7vP1i6M4yef5M0_E-yHuoVpyYvxM1T05yCEytOVe4E/edit?usp=sharing) (login to your NYU Google account to access)
 
-- **FINISH** your Final Assignment. Be ready to present your Final Assignment in class.
 
+### Week 6.2 (3/2)
+- Discuss Cybertext reading
+- Final assignment checkin
+- Final assignment work session
+
+
+#### Homework (due 3/7)
+- **FINISH** your Final Assignment. Be ready to present your Final Assignment in class.
 
 ## <a name="week7"></a>Week 7
 
