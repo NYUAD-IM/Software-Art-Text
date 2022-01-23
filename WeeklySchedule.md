@@ -30,11 +30,11 @@
 #### Homework (due before start of next class 1/26)
 - **Join** (optional) the IM Discord server #softwareart channel. Use of Discord is optional but allows you to ask questions and share links with the professor and class at any time.
 
-- **Create** a Colab notebook that can generate a paragraph of text using algorithmically chosen words. Use at least 2 different algorithms for generating the individual sentences. Generate 5 paragraphs of text and include the generated paragraphs as static text in your notebook. Include a short write up:
+- **Create** a Colab notebook that can generate a sentence of text using algorithmically chosen words. Generate 5 sentences and include the generated sentences as static text in your notebook. Include a short write up in the Colab:
   - Explain in words how the sentence is generated.
   - Is the output what you expected?
   - How could you generate an unexpected output?
-- **Add** a link to your Colab to the [Sketches Spreadsheet](https://docs.google.com/spreadsheets/d/1r7vP1i6M4yef5M0_E-yHuoVpyYvxM1T05yCEytOVe4E/edit?usp=sharing) (login to your NYU Google account to access)
+- **Submit** a link to your Colab via Brightspace->Assignments->Sketch 1
 
 - **Add** the text of a poem you like to the [Readings Doc](https://docs.google.com/document/d/1bHBWPR4_hHviqBfkgYN6biPDV4-LfBecwr46cApOEgo/edit?usp=sharing) (login to your NYU Google account to access). Be prepared to explain what appeals to you about the poem in class
 
