@@ -56,14 +56,15 @@ Each of the main assignments will be accompanied by a 500 word statement providi
 * 5% + 5% + 10% of final grade
 
 ## Submitting Assignments
-Each assignment should be submitted by (1) posting the output on the student’s website, and by (2a) sending the direct link to that posting to the instructor as an email, along with (2b) a .zip file of the files.
+Each assignment should be submitted by submitting links to the work via Brightspace. The submitted links should include
+documentation of the output (e.g. website, walkthrough video), software code, and the written statement.
 
 ## Grade breakdown
 * Participating 15%
 * Sketching 15%
-* Coding - Assemblage 20%
-* Coding - Fiction 20%
-* Coding - Final 30%
+* Assignment 1 - Assemblage 20%
+* Assignment 2 - Fiction 20%
+* Assignment 3 - Final 30%
 * Total 100%
 
 ## Grade calculation
