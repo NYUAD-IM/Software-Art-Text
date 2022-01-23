@@ -36,7 +36,7 @@
   - How could you generate an unexpected output?
 - **Submit** a link to your Colab via Brightspace->Assignments->Sketch 1
 
-- **Add** the text of a poem you like to the [Readings Doc](https://docs.google.com/document/d/1bHBWPR4_hHviqBfkgYN6biPDV4-LfBecwr46cApOEgo/edit?usp=sharing) (login to your NYU Google account to access). Be prepared to explain what appeals to you about the poem in class
+- **Add** the text of a poem you like to Brightspace->Discussions->Week 1.1
 
 ### Week 1.2 (1/26)
 - Review Homework
@@ -49,18 +49,18 @@
 
 #### Homework (due before start of next class 1/31)
 - **Read** the intro to [code {poems}](https://github.com/NYUAD-IM/Software-Art-Text/blob/main/readings/bertram_codepoems.pdf)
-  - **Add** your response to the [Readings Doc](https://docs.google.com/document/d/1bHBWPR4_hHviqBfkgYN6biPDV4-LfBecwr46cApOEgo/edit?usp=sharing)
+  - **Add** your response Brightspace->Discussions->Week 1.2
     - When do you consider code to be poetry? (2 paragraphs)
     - Pick one of the code poems from the book and compare it's structure, vocabulary, and effect on you to the poem you choose last class. How are they similar? How are they different? (2 paragraphs)
   - **Create** a code poem in Colab
-    - **Add** a link to your Colab to the [Sketches Spreadsheet](https://docs.google.com/spreadsheets/d/1r7vP1i6M4yef5M0_E-yHuoVpyYvxM1T05yCEytOVe4E/edit?usp=sharing)
+    - **Submit** a link to your Colab in Brightspace-Assignments->Sketch 2
 
 ## <a name="week2"></a>Week 2
 
 ### Week 2.1 (1/31)
 - Review Homework
 
-- Talk about Project 1 Assemblage **due Week 3 (2/1)**
+- Talk about Assignment 1 Assemblage **due Week 3 (2/1)**
   - **Create** a text artwork using Python. The artwork could be the generated text, the code itself, or a combination
   - The work should:
     - Use algorithms to generate the text
@@ -94,7 +94,7 @@
 
 #### Homework (due before start of next class 2/2)
 - **Create** a new text by scraping a page (or pages) from the Internet. Get at least 3 pieces of text out of the scraped text/web page and remix them into a new text using some of the techniques we've learned (or new ones).
-    - **Add** a link to your Colab to the [Sketches Spreadsheet](https://docs.google.com/spreadsheets/d/1r7vP1i6M4yef5M0_E-yHuoVpyYvxM1T05yCEytOVe4E/edit?usp=sharing)
+    - **Submit** a link to your Colab via Brightspace->Assignments->Sketch 3
 - **Read** [grep command in Unix/Linux](https://www.geeksforgeeks.org/grep-command-in-unixlinux)
 - **Read** [Grep: A Grammar by Loss Pequeño Glazier](https://github.com/periode/software-art-text/blob/master/assets/readings/glazier_grep.pdf)
   - Some of the output texts are [here](https://web.archive.org/web/20161008133926/http://wings.buffalo.edu:80/epc/authors/glazier/greps/) and [here](https://web.archive.org/web/20110704165723/http://wings.buffalo.edu/epc/authors/glazier/dp/appendices.html)
@@ -117,7 +117,7 @@
   - If you get "print" errors you may need to [convert from Python 2 to 3](https://www.pythonconverter.com/)
 
 #### Homework (due before start of next class 2/7)
-- **Finish** your Project 1 Assemblage
+- **Finish** your Assignment 1 Assemblage
   - **Create** a text artwork using Python. The artwork could be the generated text, the code itself, or a combination
   - The work should:
     - Use algorithms to generate the text
@@ -141,7 +141,7 @@
 ## <a name="week3"></a>Week 3
 
 ### Week 3.1 (2/7)
-- Project 1 Assemblage Presentations
+- Assignment 1 Assemblage Presentations
 
 - Introduction to Assignment 2 Fiction
 
@@ -164,7 +164,7 @@
 
 
 #### Homework (due before start of next class 2/9)
-- **Read** an article about GPT-3 and write a 2-3 paragraph response to the [Readings Doc](https://docs.google.com/document/d/1bHBWPR4_hHviqBfkgYN6biPDV4-LfBecwr46cApOEgo/edit?usp=sharing)
+- **Read** an article about GPT-3 and write a 2-3 paragraph response to Brightspace->Discussions->Week 3.1
   - How do you think machine learning will affect the future of writing?
   - What creative possibilities do you see for automatic text generation?
   - Some suggested articles
@@ -176,9 +176,9 @@
     - [Here Are A Few Ways GPT-3 Can Go Wrong](https://techcrunch.com/2020/08/07/here-are-a-few-ways-gpt-3-can-go-wrong/)
     - [GPT Crush (look through some examples)](http://gptcrush.com/)
 
-- **SKETCH - Create** a short text by training GPT-2 on your own input text. You can copy the Colab below
+- **Create** a short text by training GPT-2 on your own input text. You can copy the Colab below
   - [Finetuning GPT-2 on your own text Colab](https://colab.research.google.com/drive/1qu0yGoPOGf7_UIdenz--uDZrUl-lbO4K?usp=sharing)
-  - **Add** a link to your Colab to the [Sketches Spreadsheet](https://docs.google.com/spreadsheets/d/1r7vP1i6M4yef5M0_E-yHuoVpyYvxM1T05yCEytOVe4E/edit?usp=sharing) (login to your NYU Google account to access)
+  - **Submit** a link to your Colab via Brightspace->Assignments->Sketch 4
 
 ### Week 3.2 (2/9)
 
@@ -210,7 +210,7 @@
 - **Read** Virtual Muse (select sign in with SSO then search for "New York University" on right hand side to login with Shibboleth)
   - [Virtual Muse - Chapter 6 Autopoet](https://muse.jhu.edu/chapter/49391/pdf)
   - [Virtual Muse - Chapter 9 Unconclusion](https://muse.jhu.edu/chapter/49394/pdf)
-  - **Add** your response to the [Readings Doc](https://docs.google.com/document/d/1bHBWPR4_hHviqBfkgYN6biPDV4-LfBecwr46cApOEgo/edit?usp=sharing)
+  - **Add** your response to Brightspace->Discussions->Week 3.2
     - Do you agree with the (un)conclusions that the author makes about computers and poetry? How does your own opinion differ? (1-2 paragraphs)
     - What are some ways could you involve the reader in the process of generating your texts? (1-2 paragraphs)
 
@@ -269,7 +269,7 @@
 
 #### Homework (due 2/21)
 
-- **Finish** your Project 2 Fiction
+- **Finish** your Assignment 2 Fiction
   - **Create** a short work of fiction using Python
   - The work should:
     - Be 3 or more paragraphs long, with a narrative story / arc
@@ -287,7 +287,7 @@
         - What topics/processes are you exploring in your work? What did you hope to achieve?
           - e.g. infinitely generated possibilities, use of time, sense vs nonsense
         - How does the presentation of your work shape the response of the reader?
-  - **Add** the links to your assignment, source code, and documentation to the [Assignments Spreadsheet](https://docs.google.com/spreadsheets/d/19Zj-k-pxUY0rhpp6yGIoJchRbJk0z5lj2b1iqz1W-Uw/edit?usp=sharing)
+  - **Submit** the links to your assignment, source code, and documentation via Brightspace->Assignments->Assignment 2
   - **Prepare** to present your work in class (6-8 minutes + discussion)
 
 
@@ -323,7 +323,7 @@
 #### Homework (due 2/23)
 
 - **Read** [Listening Post 10 Years On](https://www.researchgate.net/publication/328228327_Revisiting_the_Technical_Achievements_of_Listening_Post_Ten_Years_On) and watch the [Listening Post video](https://www.youtube.com/watch?v=dD36IajCz6A)
-  - **Add** 2-3 paragraphs of response to the [Readings Doc](https://docs.google.com/document/d/1bHBWPR4_hHviqBfkgYN6biPDV4-LfBecwr46cApOEgo/edit?usp=sharing)
+  - **Add** 2-3 paragraphs of response to Brightspace->Assignments->Week 5.1
     - How do the choices of source data contribute to the "liveness" of the installation? Why do you think the artists chose to look for posts starting with "I am"?
     - How does the sonification of the texts affect your experience of them? Do you think the sonfication is an integral part of the piece?
     - Do you feel that Listening Post makes a statement about privacy and eavesdropping? What do you think the work is about?
@@ -353,16 +353,13 @@
     - [5d Markovify](https://colab.research.google.com/drive/134O8wcue1uDAH9xID2FD0FIjOK0IvcHf?usp=sharing)
 
 #### Homework (due 2/28)
-- **Read** [Eliza](https://github.com/periode/software-art-text/blob/master/assets/readings/weizenbaum_eliza.pdf)
-  - **Add** 2-3 paragraphs of response to the [Readings Doc](https://docs.google.com/document/d/1bHBWPR4_hHviqBfkgYN6biPDV4-LfBecwr46cApOEgo/edit?usp=sharing)
 - **Create** a Colab sketch that generates text using a Markov chain or simple grammar
-  - **Add** a link to your Colab to the [Sketches Spreadsheet](https://docs.google.com/spreadsheets/d/1r7vP1i6M4yef5M0_E-yHuoVpyYvxM1T05yCEytOVe4E/edit?usp=sharing)
+  - **Submit** a link to your Colab via Brightspace->Assignments->Sketch 5)
 
 
 ## <a name="week6"></a>Week 6
 
 ### Week 6.1 (2/28)
-- Eliza Discussion
 - AI Weirdness
   - [Candy Heart messages written by a neural network](https://aiweirdness.com/post/170685749687/candy-heart-messages-written-by-a-neural-network)
   - [This time I DIDN’T train a neural net to generate candy hearts](https://aiweirdness.com/post/190825122292/this-time-i-didnt-train-a-neural-net-to-generate)
@@ -390,13 +387,13 @@
 
 #### Homework (due 3/2)
 - **Read** the highlighted paragraphs and last section "What is Cybertext?" of [Cybertext](https://github.com/periode/software-art-text/blob/master/assets/readings/aarseth_cybertext.pdf)
-- **Add** 2-3 paragraphs of response to the [Readings Doc](https://docs.google.com/document/d/1bHBWPR4_hHviqBfkgYN6biPDV4-LfBecwr46cApOEgo/edit?usp=sharing)
+- **Add** 2-3 paragraphs of response to Brightspace->Assignments->Week 6.1
   - How does the concept of an information feedback loop apply to your work?
   - What is your interpretation of "text can never be reduced to a stand-alone sequence of words"?
 - **Create** a Colab notebook that overlays multilingual text over an image
   - Choose 3 pairings of text/image that go together to form a trytypch (sequence of 3 images)
   - Why did you choose these particular images and text? What happens when you put them together?
-- **Add** a link to your Colab to the [Sketches Spreadsheet](https://docs.google.com/spreadsheets/d/1r7vP1i6M4yef5M0_E-yHuoVpyYvxM1T05yCEytOVe4E/edit?usp=sharing) (login to your NYU Google account to access)
+- **Submit** a link to your Colab via Brightspace->Assignments->Sketch 6
 
 
 ### Week 6.2 (3/2)
@@ -426,7 +423,7 @@
         - How does your project continue on themes / topics you have explored in the class?
         - Why did you choose to present the work in the way you did? Do you consider the code to be the artwork? The output? Both?
         - What algorithms are you using and how did they affect your process and output?
-  - **Add** the links to your assignment, source code, and documentation to the [Assignments Spreadsheet](https://docs.google.com/spreadsheets/d/19Zj-k-pxUY0rhpp6yGIoJchRbJk0z5lj2b1iqz1W-Uw/edit?usp=sharing)
+  - **Submit** the links to your assignment, source code, and documentation to Brightspace->Assignments->Assignment 3 Final
   - **Prepare** to present your work in class (10-12 minutes + discussion)
 
 - Final Assignment Presentations
