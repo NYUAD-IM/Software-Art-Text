@@ -430,10 +430,6 @@
 
 - Final Assignment Presentations
 
-- Artist Talk
-
-### Week 7.1 (3/7)
-- Final Assignment Presentations
 
 ### Week 7.2 (3/9)
 - Final Assignment Presentations
