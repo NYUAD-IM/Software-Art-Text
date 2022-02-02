@@ -7,7 +7,7 @@ IM-UH 2116 Spring 2022<br/>
 _Spring 2022_<br/>
 Instructor: [Michael Ang](https://michaelang.com) (michael.ang@nyu.edu)<br/>
 Meeting Time: Mondays 2:40 - 5:20pm & Wednesdays 4:05pm - 5:20pm<br/>
-Location: TBD</br>
+Location: C3-006 (near Equipment Center)</br>
 Office Hours: Discord or by appointment</br>
 Credits: 2<br/>
 
