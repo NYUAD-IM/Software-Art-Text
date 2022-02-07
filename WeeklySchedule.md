@@ -178,15 +178,11 @@
     - [Here Are A Few Ways GPT-3 Can Go Wrong](https://techcrunch.com/2020/08/07/here-are-a-few-ways-gpt-3-can-go-wrong/)
     - [GPT Crush (look through some examples)](http://gptcrush.com/)
 
-- **Create** a short text by training GPT-2 on your own input text. You can copy the Colab below
-  - [Finetuning GPT-2 on your own text Colab](https://colab.research.google.com/drive/1qu0yGoPOGf7_UIdenz--uDZrUl-lbO4K?usp=sharing)
-  - **Submit** a link to your Colab via Brightspace->Assignments->Sketch 4
-
 ### Week 3.2 (2/9)
 
-- Assignment presentations
-- Review Homework
 - Discussion about Machine Learning / AI
+
+- Generating text using GPT-2
 
 - Discuss Assignment #2 Fiction (due 2/15)
   - **Create** a short work of fiction using Python
@@ -209,6 +205,10 @@
 
 
 #### Homework (due before start of next class 2/14)
+- **Create** a short text by training GPT-2 on your own input text. You can copy the Colab below
+  - [Finetuning GPT-2 on your own text Colab](https://colab.research.google.com/drive/1qu0yGoPOGf7_UIdenz--uDZrUl-lbO4K?usp=sharing)
+  - **Submit** a link to your Colab via Brightspace->Assignments->Sketch 4
+
 - **Read** Virtual Muse (select sign in with SSO then search for "New York University" on right hand side to login with Shibboleth)
   - [Virtual Muse - Chapter 6 Autopoet](https://muse.jhu.edu/chapter/49391/pdf)
   - [Virtual Muse - Chapter 9 Unconclusion](https://muse.jhu.edu/chapter/49394/pdf)
