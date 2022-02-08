@@ -210,7 +210,7 @@
 
 
 #### Homework (due before start of next class 2/14)
-- **Create** a short text by training GPT-2 on your own input text. You can copy the Colab below
+- **Create** a short text by training GPT-2 on your own input text. You can use the Colab below (copy and make any changes)
   - [Finetuning GPT-2 on your own text Colab](https://colab.research.google.com/drive/1qu0yGoPOGf7_UIdenz--uDZrUl-lbO4K?usp=sharing)
   - **Submit** a link to your Colab via Brightspace->Assignments->Sketch 4
 
