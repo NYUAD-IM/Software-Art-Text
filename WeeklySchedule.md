@@ -156,14 +156,6 @@
   - [Fake-News-Generating AI Deemed Too Dangerous for Public Release](https://www.extremetech.com/extreme/285857-fake-news-generating-ai-deemed-too-dangerous-for-public-release)
   - [OpenAI Releases Fake News Bot It Previously Deemed Too Dangerous](https://www.extremetech.com/extreme/301662-openai-releases-fake-news-bot-it-previously-deemed-too-dangerous)
     [Faking the News with Natural Language Processing and GPT-2](https://medium.com/@ageitgey/deepfaking-the-news-with-nlp-and-transformer-models-5e057ebd697d)
-  - [Finetuning GPT-2 on your own text Colab](https://colab.research.google.com/drive/1uKXS6a9q5qrcU3UdSRpCjYnKHbC-N4pb?usp=sharing)
-
-  - GPT in-depth
-    - [GPT explained - multiple difficulty levels](https://towardsdatascience.com/you-can-understand-gpt-3-with-these-youtube-videos-6a30887c928b)
-    - [How transformers work](https://towardsdatascience.com/transformers-141e32e69591)
-  - Machine learning text generation demo
-    - [Talk to transformer](https://app.inferkit.com/demo)
-
 
 #### Homework (due before start of next class 2/9)
 - **Read** an article about GPT-3 and write a 2-3 paragraph response to Brightspace->Discussions->Week 3.1
@@ -182,7 +174,20 @@
 
 - Discussion about Machine Learning / AI
 
+- Machine learning text generation demo
+  - [Talk to transformer](https://app.inferkit.com/demo)
+
+- GPT in-depth
+  - [GPT explained - multiple difficulty levels](https://towardsdatascience.com/you-can-understand-gpt-3-with-these-youtube-videos-6a30887c928b)
+  - [How transformers work](https://towardsdatascience.com/transformers-141e32e69591)
+
 - Generating text using GPT-2
+  - [Finetuning GPT-2 on your own text (Colab)](https://colab.research.google.com/drive/1uKXS6a9q5qrcU3UdSRpCjYnKHbC-N4pb?usp=sharing)
+  - [aitextgen (GitHub)(https://github.com/minimaxir/aitextgen) newer library to use GPT-2
+  - [aitextgen — Train a GPT-2 (Colab)](https://colab.research.google.com/drive/15qBZx5y9rdaQSyWpsreMDnTiZ5IlN0zD?usp=sharing)
+
+
+
 
 - Discuss Assignment #2 Fiction (due 2/15)
   - **Create** a short work of fiction using Python
