@@ -189,7 +189,7 @@
 
 
 
-- Discuss Assignment #2 Fiction (due 2/15)
+- Discuss Assignment #2 Fiction (due 2/21)
   - **Create** a short work of fiction using Python
   - The work should:
     - Be 3 or more paragraphs long, with a narrative story / arc
