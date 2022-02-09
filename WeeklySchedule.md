@@ -183,7 +183,7 @@
 
 - Generating text using GPT-2
   - [Finetuning GPT-2 on your own text (Colab)](https://colab.research.google.com/drive/1uKXS6a9q5qrcU3UdSRpCjYnKHbC-N4pb?usp=sharing)
-  - [aitextgen (GitHub)(https://github.com/minimaxir/aitextgen) newer library to use GPT-2
+  - [aitextgen (GitHub)](https://github.com/minimaxir/aitextgen) newer library to use GPT-2
   - [aitextgen — Train a GPT-2 (Colab)](https://colab.research.google.com/drive/15qBZx5y9rdaQSyWpsreMDnTiZ5IlN0zD?usp=sharing)
 
 
