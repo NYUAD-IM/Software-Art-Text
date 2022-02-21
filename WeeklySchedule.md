@@ -137,7 +137,7 @@
         - Why did you choose this content and algorithm?
         - How does the final output differ from what a person would write?
         - What thoughts or feelings does your output provoke?
-- **Add** the links to your assignment, source code, and documentation to the [Assignments Spreadsheet](https://docs.google.com/spreadsheets/d/19Zj-k-pxUY0rhpp6yGIoJchRbJk0z5lj2b1iqz1W-Uw/edit?usp=sharing)
+- **Submit** the links to your assignment, source code, and documentation using Brightspace
 - **Prepare** to present your work in class (6-8 minutes + discussion)
 
 ## <a name="week3"></a>Week 3
@@ -320,7 +320,7 @@
         - How does your project continue on themes / topics you have explored in the class?
         - Why did you choose to present the work in the way you did? Do you consider the code to be the artwork? The output? Both?
         - What algorithms are you using and how did they affect your process and output?
-  - **Add** the links to your assignment, source code, and documentation to the [Assignments Spreadsheet](https://docs.google.com/spreadsheets/d/19Zj-k-pxUY0rhpp6yGIoJchRbJk0z5lj2b1iqz1W-Uw/edit?usp=sharing)
+  - **Submit** the links to your assignment, source code, and documentation using Brightspace
   - **Prepare** to present your work in class (6-8 minutes + discussion)
 
 - Transformer Examples
