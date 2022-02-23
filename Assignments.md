@@ -25,7 +25,6 @@
   - **Create** a short work of fiction using Python
   - The work should:
     - Be 3 or more paragraphs long, with a narrative story / arc
-    - Be presented on a web page (can be a Colab or standalone webpage)
     - You can incorporate code that you have previously used
     - You can generate text "from scratch", remix existing content, and/or generate text using machine learning (e.g. GPT-2)
     - A new story / fiction should be generated each time the program is run (you can choose 1 or more of the generated outputs to present on the web page)
