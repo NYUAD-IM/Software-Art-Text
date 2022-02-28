@@ -421,9 +421,10 @@
 ### Week 6.2 (3/2)
 <!--
 - Discuss Cybertext reading
--->
 - Review homework
+-->
 - Final assignment checkin
+- Other topics
 - Final assignment work session
 
 
