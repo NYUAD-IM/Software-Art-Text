@@ -405,12 +405,13 @@
 - **Add** 2-3 paragraphs of response to Brightspace->Assignments->Week 6.1
   - How does the concept of an information feedback loop apply to your work?
   - What is your interpretation of "text can never be reduced to a stand-alone sequence of words"?
--->
 
 - **Create** a Colab notebook that overlays multilingual text over an image
   - Choose 3 pairings of text/image that go together to form a trytypch (sequence of 3 images)
   - Why did you choose these particular images and text? What happens when you put them together?
 - **Submit** a link to your Colab via Brightspace->Assignments->Sketch 6
+-->
+
 - **Work** on your Final assignment
 - **Ask** any questions related to your final assignment in Discord or by email. We can look at some solutions in the next class
 
