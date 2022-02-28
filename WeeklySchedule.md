@@ -393,10 +393,14 @@
   - [Arabic Reshaper](https://github.com/mpcabd/python-arabic-reshaper)
   - [6b Multilingual Text on Image (Colab)](https://colab.research.google.com/drive/1J9mzWzkOxKcHQQxqHmNvruvTuEGPGzGq?usp=sharing)
 
+- Creating a web app with Colab
+  - [Turning a Google Colab notebook into a web app](https://anvil.works/learn/tutorials/google-colab-to-web-app)
+  - [Downloading data from a shared google drive link in google colab](https://stackoverflow.com/questions/62759748/downloading-data-from-a-shared-google-drive-link-in-google-colab)
+
 - Final assignment check-in
 
 #### Homework (due 3/2)
-<!-- 
+<!--
 - **Read** the highlighted paragraphs and last section "What is Cybertext?" of [Cybertext](https://github.com/periode/software-art-text/blob/master/assets/readings/aarseth_cybertext.pdf)
 - **Add** 2-3 paragraphs of response to Brightspace->Assignments->Week 6.1
   - How does the concept of an information feedback loop apply to your work?
