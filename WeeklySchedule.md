@@ -395,6 +395,8 @@
 
 - Creating a web app with Colab
   - [Turning a Google Colab notebook into a web app](https://anvil.works/learn/tutorials/google-colab-to-web-app)
+  - [Example web app (Anvil)](https://anvil.works/build#clone:AFS5MTYSCMTS2XVP=JZQRCRGA3OFNEKXJM3MQFPOV)
+  - [Week 6 - Colab Web App (Colab)](https://colab.research.google.com/drive/1ZUlEzHxrp16WHjANv4rwJDvcjKDSy6xB?usp=sharing)
   - [Downloading data from a shared google drive link in google colab](https://stackoverflow.com/questions/62759748/downloading-data-from-a-shared-google-drive-link-in-google-colab)
 
 - Final assignment check-in
