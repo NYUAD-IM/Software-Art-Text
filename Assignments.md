@@ -45,7 +45,6 @@
   - For the Final Assignment you can choose to continue working on one of your previous projects or create a new work.
   - The work should:
     - Build on concepts and techniques that we've covered in class
-    - Be presented on a web page (can be a Colab or standalone webpage)
     - The presented work should have a definite aesthetic. It could be for example raw code, a polished output, or a physical object, and it should have an intentional artistic presentation.
   - The text should be accompanied by the following documentation:
     - A link to your Colab or source code
