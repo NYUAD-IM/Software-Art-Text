@@ -425,6 +425,7 @@
 -->
 - Final assignment checkin
 - Other topics
+  - [Week 6 - Markovify Short Text - Get Image From Search (Colab)](https://colab.research.google.com/drive/1HQq01NWGcec0Ws3PzJnzx8xKW6ZE5twy?usp=sharing)
 - Final assignment work session
 
 
