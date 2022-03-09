@@ -458,6 +458,9 @@
 
 ### Week 7.2 (3/9)
 - Final Assignment Presentations
+- Work example
+  - [Robert Montgomery](https://www.robertmontgomery.org/)
+  - [@robertmontgomerystudio (Instagram)](https://www.instagram.com/robertmontgomerystudio/?hl=en)
 - Course Review
   - Please fill out the [Course Evaluation](https://m.albert.nyu.edu/app/student/nyuCrseEval/crseEval/1224/18521/AD/10)
 - Goodbyes!
