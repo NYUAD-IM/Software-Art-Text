@@ -459,6 +459,7 @@
 ### Week 7.2 (3/9)
 - Final Assignment Presentations
 - Course Review
+  - Please fill out the [Course Evaluation](https://m.albert.nyu.edu/app/student/nyuCrseEval/crseEval/1224/18521/AD/10)
 - Goodbyes!
 
 
