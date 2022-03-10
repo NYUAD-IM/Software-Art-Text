@@ -18,7 +18,7 @@
         - Why did you choose this content and algorithm?
         - How does the final output differ from what a person would write?
         - What thoughts or feelings does your output provoke?
-- **Add** the links to your assignment, source code, and documentation to the [Assignments Spreadsheet](https://docs.google.com/spreadsheets/d/19Zj-k-pxUY0rhpp6yGIoJchRbJk0z5lj2b1iqz1W-Uw/edit?usp=sharing)
+- **Submit** the links to your assignment, source code, and documentation via Brightspace
 - **Prepare** to present your work in class (6-8 minutes + discussion)
 
 ## Assignment 2 Fiction
@@ -38,7 +38,7 @@
         - What topics/processes are you exploring in your work? What did you hope to achieve?
           - e.g. infinitely generated possibilities, use of time, sense vs nonsense
         - How does the presentation of your work shape the response of the reader?
-  - **Add** the links to your assignment, source code, and documentation to the [Assignments Spreadsheet](https://docs.google.com/spreadsheets/d/19Zj-k-pxUY0rhpp6yGIoJchRbJk0z5lj2b1iqz1W-Uw/edit?usp=sharing)
+  - **Submit** the links to your assignment, source code, and documentation via Brightspace
   - **Prepare** to present your work in class (6-8 minutes + discussion)
 
 ## Assignment 3 - Final
@@ -55,5 +55,5 @@
         - How does your project continue on themes / topics you have explored in the class?
         - Why did you choose to present the work in the way you did? Do you consider the code to be the artwork? The output? Both?
         - What algorithms are you using and how did they affect your process and output?
-  - **Add** the links to your assignment, source code, and documentation to the [Assignments Spreadsheet](https://docs.google.com/spreadsheets/d/19Zj-k-pxUY0rhpp6yGIoJchRbJk0z5lj2b1iqz1W-Uw/edit?usp=sharing)
+  - **Submit** the links to your assignment, source code, and documentation via Brightspace
   - **Prepare** to present your work in class (10-12 minutes + discussion)
