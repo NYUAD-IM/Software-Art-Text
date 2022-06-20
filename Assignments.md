@@ -21,7 +21,7 @@
 - **Submit** the links to your assignment, source code, and documentation via Brightspace
 - **Prepare** to present your work in class (6-8 minutes + discussion)
 
-## Assignment 2 Fiction
+## Assignment 2 - Fiction
   - **Create** a short work of fiction using Python
   - The work should:
     - Be 3 or more paragraphs long, with a narrative story / arc
